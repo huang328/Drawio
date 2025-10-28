@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="28.2.8">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="2235" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2231" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,26 +103,29 @@
         <mxCell id="WST3XxQGmWy1DqQvv_qS-1" value="模型裁剪&lt;br&gt;工作日每天花20min时间清理熟知和冷门的知识点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="650" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-2" value="T1 作息国策组" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-2" value="T1 作息国策组" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="150" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-3" value="T0 独立国策组" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-3" value="T0 独立国策组" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="-240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-6" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-6" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="400" width="300" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-7" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="400" width="330" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-8" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="400" width="330" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-4" value="战术规划&lt;br&gt;每天记录失策情况，可以第二天早上完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="IpGJSZYHcnI9OjIyq8Mq-8">
+        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-4" value="战术规划&lt;br&gt;每天记录失策情况，可以第二天早上完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="IpGJSZYHcnI9OjIyq8Mq-8" vertex="1">
           <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-1" value="失误规避" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IpGJSZYHcnI9OjIyq8Mq-8">
+        <mxCell id="IpGJSZYHcnI9OjIyq8Mq-1" value="失误规避" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="IpGJSZYHcnI9OjIyq8Mq-8" vertex="1">
           <mxGeometry x="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节英文论述" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="650" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
