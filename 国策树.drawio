@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="28.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1938" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1487" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,8 +130,11 @@
         <mxCell id="WeB7dDUsKd77LbWdtYlu-1" value="&lt;font size=&quot;3&quot;&gt;1.太过严格的时间以及模糊的目标，会产生争议的中间地带，需要准确易懂的标准&lt;br&gt;2.国策很多时候没考虑突发情况的应对&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-260" y="-70" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="gFz0LO3c6W76WAKulNZv-1" value="计时开始时国策树生效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="gFz0LO3c6W76WAKulNZv-1" value="计时开始时国策树生效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="-200" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FW20MY-lKiILwjx5z2Kl-1" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;时间继续&lt;br&gt;五指合五下预备，单指合五下开始&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
