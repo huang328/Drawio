@@ -139,6 +139,9 @@
         <mxCell id="GYHfwP5nTr4zkCVt0_hk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;阿基米德&lt;br&gt;沐浴时专注于清洁皮肤和头发&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ 1 不洗手前不能挤痘弄眼&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="1010" as="geometry" />
         </mxCell>
+        <mxCell id="GYHfwP5nTr4zkCVt0_hk-5" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="230" width="330" x="450" y="890" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
