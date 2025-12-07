@@ -146,7 +146,7 @@
           <mxGeometry height="230" width="330" x="800" y="640" as="geometry" />
         </mxCell>
         <mxCell id="B094axNtcaqvtl3E8sZQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="饮食调剂&lt;br&gt;重油盐食品每两天一餐，高糖食品每周只能摄入两次(奶茶/雪糕/)" vertex="1">
-          <mxGeometry height="60" width="120" x="-60" y="750" as="geometry" />
+          <mxGeometry height="60" width="120" x="-30" y="555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
