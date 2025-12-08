@@ -13,7 +13,7 @@
         <mxCell id="B1fuLeS9RBR3NKVra5zc-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;br&gt;运动不息&lt;br&gt;每天进行至少一次不少于10分钟的运动&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;每周进行不少于15分钟的运动%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%AF%8F%E5%A4%A9%E6%96%B0%E5%A2%9E%E4%B8%80%E4%B8%AA%E5%9B%BD%E7%AD%96%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%2220%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E每周进行不少于15分钟的运动&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="B1fuLeS9RBR3NKVra5zc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="养精蓄锐&lt;br&gt;每天睡眠不少于7.5小时" vertex="1">
+        <mxCell id="B1fuLeS9RBR3NKVra5zc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="养精蓄锐&lt;br&gt;每天睡眠不少于7.5小时&lt;br&gt;*床上时间为00.10~7.50" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="440" as="geometry" />
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="天气预报&lt;br&gt;每周限飞最多两次，工作时间只能在厕所，没有次数时不能访问带暗示网站" vertex="1">
@@ -145,8 +145,8 @@
         <mxCell id="k1DrCY_w5ELpQ_oU7AUm-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="B094axNtcaqvtl3E8sZQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="饮食调剂&lt;br&gt;重油盐食品最多每两天一餐，高糖食品每周只能摄入两次(奶茶/雪糕)" vertex="1">
-          <mxGeometry height="60" width="120" x="-30" y="555" as="geometry" />
+        <mxCell id="B094axNtcaqvtl3E8sZQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="饮食调剂&lt;br&gt;重油盐食品每两天一餐，高糖食品每周只能摄入两次(奶茶/雪糕/)" vertex="1">
+          <mxGeometry height="60" width="120" x="-20" y="555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
