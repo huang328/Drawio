@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.4">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1647" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1719" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="养精蓄锐&lt;br&gt;每天睡眠不少于7.5h&lt;br&gt;+1 不少于8h，宿舍熄灯时间提早到23.30" vertex="1">
           <mxGeometry height="60" width="120" x="141" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="B1fuLeS9RBR3NKVra5zc-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="天气预报&lt;br&gt;每周限飞最多两次，工作时间只能在厕所，没有次数时不能访问带暗示网站" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="650" as="geometry" />
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每天至少练一四小节完整的音段" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="550" as="geometry" />
@@ -136,7 +133,7 @@
         <mxCell id="ARU9uCe2CVYTHZm-RWw1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="张弛有度&lt;br&gt;没有ddl的情况下，每周需要有一天执行计划内放松" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="GYHfwP5nTr4zkCVt0_hk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;阿基米德&lt;br&gt;沐浴时专注于清洁皮肤和头发&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ 1 不洗手前不能挤痘弄眼&lt;/div&gt;" vertex="1">
+        <mxCell id="GYHfwP5nTr4zkCVt0_hk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;阿基米德&lt;br&gt;沐浴时专注于清洁皮肤和头发&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="GYHfwP5nTr4zkCVt0_hk-5" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
@@ -144,9 +141,6 @@
         </mxCell>
         <mxCell id="k1DrCY_w5ELpQ_oU7AUm-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="B094axNtcaqvtl3E8sZQ-1" parent="k1DrCY_w5ELpQ_oU7AUm-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="饮食调剂&lt;br&gt;重油盐食品每两天一餐，高糖食品每周只能摄入两次(奶茶/雪糕/)" vertex="1">
-          <mxGeometry height="60" width="120" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="PR54cnRAbgGZMkScRMFo-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="合纵连横&lt;br&gt;多个单元任务可以合成一个整体任务完成" vertex="1">
           <mxGeometry height="60" width="120" x="-20" y="555" as="geometry" />
