@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="29.2.9">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1889" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2029" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,9 @@
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-1" parent="IpGJSZYHcnI9OjIyq8Mq-8" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="失误规避" vertex="1">
           <mxGeometry height="30" width="60" x="220" as="geometry" />
         </mxCell>
+        <mxCell id="52FGgfgPVEXHtjKeg9y8-1" parent="IpGJSZYHcnI9OjIyq8Mq-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="风险规避&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;使用信号来在冲动行事前三思&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+ 1 五指合三下冷静5min转做其他事&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="40" as="geometry" />
+        </mxCell>
         <mxCell id="WeB7dDUsKd77LbWdtYlu-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;3&quot;&gt;1.太过严格的时间以及模糊的目标，会产生争议的中间地带，需要准确易懂的标准&lt;br&gt;2.国策很多时候没考虑突发情况的应对&lt;br&gt;限制级软件：B站、知乎、小红书、微信除聊天外功能&lt;br&gt;3.皮肤问题，只能形成习惯，按时涂药，有意识就防冲动&lt;br&gt;4.睡眠质量和限制级应用，因为限制级应用在工作累的时候容易看文字擦边分散精力，累的话就看经济书分担，限制级应用逐步禁止(第一周)，睡眠看床垫能不能补一补&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;5.天气预报经常越界，容易因为短视频和疲惫影响，睡够有意识去掉暗示内容，周日单机大作+写评、图书馆、练吉他和骑单车、其他户外活动四选一，只在睡觉和其后一小时维持较暗环境&lt;br&gt;6.碎片禁止容易玩过头越界，娱乐也要引入计时意识&lt;/span&gt;" vertex="1">
           <mxGeometry height="310" width="280" x="-350" y="-130" as="geometry" />
         </mxCell>
@@ -159,9 +162,6 @@
         </mxCell>
         <mxCell id="W8aSpgX1gb-iDZ2opPZD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="整顿内务&lt;br&gt;5min内完成的内务在不计时时为最高优先级" vertex="1">
           <mxGeometry height="60" width="120" x="-413" y="950" as="geometry" />
-        </mxCell>
-        <mxCell id="52FGgfgPVEXHtjKeg9y8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="风险规避&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;使用信号来在冲动行事前三思&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+ 1 五指合三下冷静5min转做其他事&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-410" y="630" as="geometry" />
         </mxCell>
         <mxCell id="EbW_i_ZtZpieSZF9_P0Z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="碎片禁止&lt;br&gt;限制级应用在使用1小时后，必须在计时限制内使用" vertex="1">
           <mxGeometry height="60" width="120" x="-260" y="870" as="geometry" />
