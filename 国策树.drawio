@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="29.2.9">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="2029" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2029" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,9 +46,6 @@
         <mxCell id="Ux4uEmjnoSaE70JmKrlA-7" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="工作时间" vertex="1">
           <mxGeometry height="30" width="60" x="680" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="OrBjz5m8nXx1iCDQ5Hq3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="忧郁蓝调&lt;br&gt;工作日一天开始时先进行每日计划" vertex="1">
-          <mxGeometry height="60" width="120" x="-413" y="710" as="geometry" />
-        </mxCell>
         <mxCell id="OrBjz5m8nXx1iCDQ5Hq3-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="引导程序&lt;br&gt;每天早上起床后30min和晚上睡觉前刷牙洗脸" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="440" as="geometry" />
         </mxCell>
@@ -87,6 +84,9 @@
         </mxCell>
         <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="IpGJSZYHcnI9OjIyq8Mq-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节英文论述阅读" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBjz5m8nXx1iCDQ5Hq3-1" parent="IpGJSZYHcnI9OjIyq8Mq-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="忧郁蓝调&lt;br&gt;工作日一天开始时先进行每日计划" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="150" as="geometry" />
         </mxCell>
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-8" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="400" as="geometry" />
