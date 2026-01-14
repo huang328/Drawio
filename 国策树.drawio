@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="29.3.0">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1959" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1979" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="养精蓄锐&lt;br&gt;每天睡眠不少于7.5h" vertex="1">
           <mxGeometry height="60" width="120" x="141" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每天至少练一四小节完整的音段" vertex="1">
-          <mxGeometry height="60" width="120" x="-413" y="790" as="geometry" />
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-8" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="T2 CTDP增强" vertex="1">
           <mxGeometry height="30" width="80" x="-85" y="250" as="geometry" />
@@ -79,9 +76,6 @@
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-6" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="300" x="130" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="EbW_i_ZtZpieSZF9_P0Z-1" parent="IpGJSZYHcnI9OjIyq8Mq-6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="碎片禁止&lt;br&gt;限制级应用在使用1小时后，必须在计时限制内使用" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="150" as="geometry" />
-        </mxCell>
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-7" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="450" y="400" as="geometry" />
         </mxCell>
@@ -120,6 +114,9 @@
         </mxCell>
         <mxCell id="R8iQWR84kv6LYAYhWrRd-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;模型裁剪&lt;br/&gt;工作日每天上午准备&lt;br/&gt;一个单元做笔记删减&lt;/font&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每天至少练一四小节完整的音段" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="50" as="geometry" />
         </mxCell>
         <mxCell id="pnyqKiJ39zt_POCX3Onk-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="300" x="130" y="770" as="geometry" />
@@ -165,6 +162,9 @@
         </mxCell>
         <mxCell id="W8aSpgX1gb-iDZ2opPZD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="整顿内务&lt;br&gt;5min内完成的内务在不计时时为最高优先级" vertex="1">
           <mxGeometry height="60" width="120" x="-413" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="EbW_i_ZtZpieSZF9_P0Z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="碎片禁止&lt;br&gt;限制级应用在使用1小时后，必须在计时限制内使用" vertex="1">
+          <mxGeometry height="60" width="120" x="-413" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
