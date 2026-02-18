@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1697" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1743" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,14 +115,8 @@
         <mxCell id="K6lRclB1vccHZ36acX9j-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="冯诺依曼&lt;br&gt;工作日每天生产一段知识点论述或代码" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每天至少练一四小节完整的音段" vertex="1">
-          <mxGeometry height="60" width="120" x="10" y="50" as="geometry" />
-        </mxCell>
         <mxCell id="R8iQWR84kv6LYAYhWrRd-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;模型裁剪&lt;br/&gt;工作日每天上午准备&lt;br/&gt;一个单元做笔记删减&lt;/font&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="FlsU7catDcET9zgMuJdI-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="虚空容器&lt;br&gt;每天完成15min闭眼养神" vertex="1">
-          <mxGeometry height="60" width="120" x="10" y="140" as="geometry" />
         </mxCell>
         <mxCell id="pnyqKiJ39zt_POCX3Onk-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="300" x="130" y="770" as="geometry" />
@@ -165,6 +159,15 @@
         </mxCell>
         <mxCell id="8UIiVWSNDGrRHBVPV39T-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;T3 习惯养成组&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="190" x="185" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="tF9m72j1BZ2ERXGG_aRT-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="2.17失策原因&lt;br&gt;1.外出回来太晚，每天应保持1h自主娱乐时间&lt;br&gt;2.熄灯时间前一小时不应食用影响睡眠的东西，如咖啡&lt;br&gt;3.熄灯时间太晚，且睡前1h不应看电子产品，避免蓝光，死局&lt;br&gt;4.学习过程等编译刷知乎，编译视为禁止操作期&lt;br&gt;5.大脑喜欢刺激，这会分泌多巴胺" vertex="1">
+          <mxGeometry height="150" width="190" x="-480" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每天至少练一四小节完整的音段" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="FlsU7catDcET9zgMuJdI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="虚空容器&lt;br&gt;每天完成15min闭眼养神" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
