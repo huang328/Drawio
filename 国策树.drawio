@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1743" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="pnyqKiJ39zt_POCX3Onk-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="300" x="130" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="9PnlQ4ssR_8SW1PX_FD3-1" parent="pnyqKiJ39zt_POCX3Onk-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="天气预报&lt;br&gt;每周限飞两次&lt;br&gt;+1 违反时下周禁欲" vertex="1">
+        <mxCell id="9PnlQ4ssR_8SW1PX_FD3-1" parent="pnyqKiJ39zt_POCX3Onk-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="天气预报&lt;br&gt;每周限飞两次&lt;br&gt;+1 违反时下周禁欲，禁欲期间避开任意暗示文本/画面" vertex="1">
           <mxGeometry height="60" width="120" x="11" y="50" as="geometry" />
         </mxCell>
         <mxCell id="8UIiVWSNDGrRHBVPV39T-4" parent="pnyqKiJ39zt_POCX3Onk-1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="习惯养成" vertex="1">
