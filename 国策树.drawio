@@ -145,7 +145,7 @@
         <mxCell id="ARU9uCe2CVYTHZm-RWw1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="张弛有度&lt;br&gt;没有ddl的情况下，每周需要有一天执行计划内放松" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="1030" as="geometry" />
         </mxCell>
-        <mxCell id="GYHfwP5nTr4zkCVt0_hk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;阿基米德&lt;br&gt;沐浴时专注于清洁皮肤和头发&lt;br&gt;+1 日常未洗手不接触皮肤&lt;/div&gt;" vertex="1">
+        <mxCell id="GYHfwP5nTr4zkCVt0_hk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;阿基米德&lt;br&gt;沐浴时专注于清洁皮肤和头发&lt;br&gt;+1 日常未洗手避免皮肤&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="GYHfwP5nTr4zkCVt0_hk-5" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="2_cqa8MKcAN35-M57-_v-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="减重限制&lt;br&gt;中午竞走，晚上夜跑" vertex="1">
           <mxGeometry height="60" width="120" x="-270" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="睡前半小时远离蓝光" vertex="1">
+          <mxGeometry height="60" width="120" x="-290" y="970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
