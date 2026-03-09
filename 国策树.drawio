@@ -13,7 +13,7 @@
         <mxCell id="B1fuLeS9RBR3NKVra5zc-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;br&gt;运动不息&lt;br&gt;每天进行至少一次不少于10分钟的运动&lt;br&gt;+1 不加班跑5公里，加班时室内运动，多走少坐&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;每周进行不少于15分钟的运动%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%AF%8F%E5%A4%A9%E6%96%B0%E5%A2%9E%E4%B8%80%E4%B8%AA%E5%9B%BD%E7%AD%96%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%2220%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E每周进行不少于15分钟的运动&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="B1fuLeS9RBR3NKVra5zc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="养精蓄锐&lt;br&gt;每天睡眠不少于7.5h&lt;br&gt;+ 1 睡眠要求延长到8h，熄灯时间提早半小时(23.30)" vertex="1">
+        <mxCell id="B1fuLeS9RBR3NKVra5zc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="养精蓄锐&lt;br&gt;每天睡眠不少于7.5h" vertex="1">
           <mxGeometry height="60" width="120" x="141" y="440" as="geometry" />
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-8" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="T2 CTDP增强" vertex="1">
@@ -58,10 +58,10 @@
         <mxCell id="59g7xkOBhEJ2ZJnalg8H-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;正本清源&lt;br&gt;计时期间非突发情况不能看到手机&lt;/span&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="845" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="59g7xkOBhEJ2ZJnalg8H-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;精神聚拢&lt;br&gt;每天熄灯和起床的时间尽量早于前日&lt;br&gt;754/2345&lt;/font&gt;" vertex="1">
+        <mxCell id="59g7xkOBhEJ2ZJnalg8H-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;精神聚拢&lt;br&gt;每天熄灯和起床的时间尽量早于前日&lt;br&gt;0700/2240&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="190" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="FNR3RzIvYv-M7O-Cg0RV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;慎终如始&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;每天熄灯时间~起床时间禁止限制级应用和网站，也禁止将其移出限制级&lt;br&gt;+ 1 熄灯前30min使用限制级软件采用站立姿势&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="FNR3RzIvYv-M7O-Cg0RV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;慎终如始&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;每天熄灯时间~起床时间禁止限制级应用和网站，也禁止将其移出限制级&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="680" y="20" as="geometry" />
         </mxCell>
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-2" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="T1 作息国策组" vertex="1">
@@ -73,14 +73,11 @@
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-6" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="300" x="130" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="EbW_i_ZtZpieSZF9_P0Z-1" parent="IpGJSZYHcnI9OjIyq8Mq-6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="碎片禁止&lt;br&gt;限制级应用在使用1小时后，必须在计时限制内使用&lt;br&gt;+1 限制级应用计时无法合并成整体任务" vertex="1">
+        <mxCell id="EbW_i_ZtZpieSZF9_P0Z-1" parent="IpGJSZYHcnI9OjIyq8Mq-6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;碎片禁止&lt;br&gt;限制级应用在使用1小时后，必须在计时限制内使用&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="150" as="geometry" />
         </mxCell>
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-7" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="450" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="IpGJSZYHcnI9OjIyq8Mq-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节英文论述阅读" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="150" as="geometry" />
         </mxCell>
         <mxCell id="OrBjz5m8nXx1iCDQ5Hq3-1" parent="IpGJSZYHcnI9OjIyq8Mq-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="忧郁蓝调&lt;br&gt;工作日一天开始时先进行每日计划" vertex="1">
           <mxGeometry height="60" width="120" x="10" y="150" as="geometry" />
@@ -115,15 +112,6 @@
         <mxCell id="K6lRclB1vccHZ36acX9j-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="冯诺依曼&lt;br&gt;工作日每天生产一段知识点论述或代码" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="R8iQWR84kv6LYAYhWrRd-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;模型裁剪&lt;br/&gt;工作日每天上午准备&lt;br/&gt;一个单元做笔记删减&lt;/font&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每天至少练一四小节完整的音段" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="赛博畏光&lt;br&gt;睡前前15分钟远离蓝光，冥想或深呼吸平滑进睡眠" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="140" as="geometry" />
-        </mxCell>
         <mxCell id="pnyqKiJ39zt_POCX3Onk-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="300" x="130" y="770" as="geometry" />
         </mxCell>
@@ -148,7 +136,7 @@
         <mxCell id="ARU9uCe2CVYTHZm-RWw1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="张弛有度&lt;br&gt;没有ddl的情况下，每周需要有一天执行计划内放松" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="1030" as="geometry" />
         </mxCell>
-        <mxCell id="GYHfwP5nTr4zkCVt0_hk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;阿基米德&lt;br&gt;沐浴时专注于清洁皮肤和头发&lt;br&gt;+1 日常未洗手避免皮肤&lt;/div&gt;" vertex="1">
+        <mxCell id="GYHfwP5nTr4zkCVt0_hk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="阿基米德&lt;br&gt;沐浴时专注于清洁皮肤和头发&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="GYHfwP5nTr4zkCVt0_hk-5" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
@@ -175,14 +163,38 @@
         <mxCell id="YFq2iZTxU0fjkHs2BbVw-2" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="300" x="130" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="YFq2iZTxU0fjkHs2BbVw-1" parent="YFq2iZTxU0fjkHs2BbVw-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="料理禁足&lt;br&gt;晚八点后除了晚餐正餐外不进食" vertex="1">
-          <mxGeometry height="60" width="120" x="10" y="10" as="geometry" />
-        </mxCell>
         <mxCell id="2_cqa8MKcAN35-M57-_v-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="减重限制&lt;br&gt;中午竞走，晚上夜跑" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="810" as="geometry" />
         </mxCell>
         <mxCell id="MJF6vFf7zavwh5BGVUtp-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="3.7失策原因&lt;br&gt;1.玩游戏上头，将要主观违反国策时起来走动1分钟断掉心流&lt;br&gt;2.太晚没弹吉他" vertex="1">
           <mxGeometry height="150" width="190" x="-480" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MJF6vFf7zavwh5BGVUtp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1 限制级应用计时无法合并成整体任务" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="R8iQWR84kv6LYAYhWrRd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;模型裁剪&lt;br/&gt;工作日每天上午准备&lt;br/&gt;一个单元做笔记删减&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="MJF6vFf7zavwh5BGVUtp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; white-space: normal;&quot;&gt;+1 日常未洗手避免皮肤&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="YFq2iZTxU0fjkHs2BbVw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="料理禁足&lt;br&gt;晚八点后除了晚餐正餐外不进食" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每天至少练一四小节完整的音段" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="赛博畏光&lt;br&gt;睡前前15分钟远离蓝光，冥想或深呼吸平滑进睡眠" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节英文论述阅读" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="MJF6vFf7zavwh5BGVUtp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+ 1 保持8小时睡眠，同时上班前留出1h自主学习" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="MJF6vFf7zavwh5BGVUtp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;+ 1 熄灯前30min使用限制级软件采用站立姿势&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
