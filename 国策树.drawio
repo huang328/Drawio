@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.5.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
     <mxGraphModel dx="1696" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="2_cqa8MKcAN35-M57-_v-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="减重限制&lt;br&gt;中午竞走，晚上夜跑" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="810" as="geometry" />
         </mxCell>
-        <mxCell id="MJF6vFf7zavwh5BGVUtp-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="3.7失策原因&lt;br&gt;1.玩游戏上头，将要主观违反国策时起来走动1分钟断掉心流&lt;br&gt;2.太晚没弹吉他" vertex="1">
+        <mxCell id="MJF6vFf7zavwh5BGVUtp-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="3.7失策原因&lt;br&gt;1.玩游戏上头，将要主观违反国策时起来走动1分钟断掉心流&lt;br&gt;2.太晚没弹吉他&lt;br&gt;&lt;br&gt;3.15失策原因&lt;br&gt;1.腰疼打乱早上计划没看英文文献，优先修养&lt;br&gt;2.玩博德太晚，关灯和吉他时间错乱" vertex="1">
           <mxGeometry height="150" width="190" x="-480" y="430" as="geometry" />
         </mxCell>
         <mxCell id="MJF6vFf7zavwh5BGVUtp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1 限制级应用计时无法合并成整体任务" vertex="1">
