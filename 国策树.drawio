@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="29.6.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.5.1">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="2269" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1696" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-7" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="450" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="IpGJSZYHcnI9OjIyq8Mq-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节英文论述阅读" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="155" as="geometry" />
         </mxCell>
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-8" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="400" as="geometry" />
@@ -183,9 +186,6 @@
         </mxCell>
         <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="赛博畏光&lt;br&gt;睡前前15分钟远离蓝光，冥想或深呼吸平滑进睡眠" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="810" as="geometry" />
-        </mxCell>
-        <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节英文论述阅读" vertex="1">
-          <mxGeometry height="60" width="120" x="-140" y="890" as="geometry" />
         </mxCell>
         <mxCell id="MJF6vFf7zavwh5BGVUtp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+ 1 保持8小时睡眠，同时上班前留出1h自主学习" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="970" as="geometry" />
