@@ -155,7 +155,7 @@
           <mxGeometry height="50" width="190" x="185" y="700" as="geometry" />
         </mxCell>
         <mxCell id="tF9m72j1BZ2ERXGG_aRT-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="2.17失策原因&lt;br&gt;1.外出回来太晚，每天应保持1h自主娱乐时间&lt;br&gt;2.熄灯时间前一小时不应食用影响睡眠的东西，如咖啡&lt;br&gt;3.熄灯时间太晚，且睡前1h不应看电子产品，避免蓝光，死局&lt;br&gt;4.学习过程等编译刷知乎，编译视为禁止操作期&lt;br&gt;5.大脑喜欢刺激，这会分泌多巴胺" vertex="1">
-          <mxGeometry height="150" width="190" x="-480" y="270" as="geometry" />
+          <mxGeometry height="150" width="190" x="-800" y="265" as="geometry" />
         </mxCell>
         <mxCell id="FlsU7catDcET9zgMuJdI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="虚空容器&lt;br&gt;每天完成15min闭眼养神" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="890" as="geometry" />
@@ -169,8 +169,8 @@
         <mxCell id="2_cqa8MKcAN35-M57-_v-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="减重限制&lt;br&gt;中午竞走，晚上夜跑" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="810" as="geometry" />
         </mxCell>
-        <mxCell id="MJF6vFf7zavwh5BGVUtp-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="3.7失策原因&lt;br&gt;1.玩游戏上头，将要主观违反国策时起来走动1分钟断掉心流&lt;br&gt;2.太晚没弹吉他&lt;br&gt;&lt;br&gt;3.15失策原因&lt;br&gt;1.腰疼打乱早上计划没看英文文献，优先修养&lt;br&gt;2.玩博德太晚，关灯和吉他时间错乱，要限制游戏时间&lt;br&gt;&lt;br&gt;3.20失策原因&lt;div&gt;1.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="190" x="-480" y="430" as="geometry" />
+        <mxCell id="MJF6vFf7zavwh5BGVUtp-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;br&gt;&lt;br&gt;3.15失策原因&lt;br&gt;1.腰疼打乱早上计划没看英文文献，优先修养&lt;br&gt;2.玩博德太晚，关灯和吉他时间错乱，要限制游戏时间&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="190" x="-390" y="265" as="geometry" />
         </mxCell>
         <mxCell id="MJF6vFf7zavwh5BGVUtp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1 限制级应用计时无法合并成整体任务" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="720" as="geometry" />
@@ -192,6 +192,12 @@
         </mxCell>
         <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节英文论述阅读" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XwD1zxzTZtYnSZktWV-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="3.20失策原因&lt;div&gt;1.什么都不想干就刷小红书和知乎，屏蔽该习惯，转为预习周末想学习的东西，剪辑、ai音乐和配音、深度学习、金融都行&lt;br&gt;2.碎片化的娱乐和学习导致完成内容质量不高，懒于计划&lt;br&gt;3.外部事情导致计时开始后思想发散，对大脑分区，工作区滤掉指定相关想法&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="190" x="-810" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-XwD1zxzTZtYnSZktWV-2" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="3.7失策原因&lt;br&gt;1.玩游戏上头，将要主观违反国策时起来走动1分钟断掉心流&lt;br&gt;2.太晚没弹吉他" vertex="1">
+          <mxGeometry height="150" width="190" x="-590" y="265" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
