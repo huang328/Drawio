@@ -112,6 +112,9 @@
         <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="赛博畏光&lt;br&gt;睡前前15分钟远离蓝光，冥想或深呼吸平滑进睡眠" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="50" as="geometry" />
         </mxCell>
+        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每晚洗澡后至少练一四小节完整的音段" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="140" as="geometry" />
+        </mxCell>
         <mxCell id="pnyqKiJ39zt_POCX3Onk-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="300" x="130" y="770" as="geometry" />
         </mxCell>
@@ -180,9 +183,6 @@
         </mxCell>
         <mxCell id="MJF6vFf7zavwh5BGVUtp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; white-space: normal;&quot;&gt;+1 日常未洗手避免皮肤&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="1060" as="geometry" />
-        </mxCell>
-        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每晚洗澡后至少练一四小节完整的音段" vertex="1">
-          <mxGeometry height="60" width="120" x="-140" y="720" as="geometry" />
         </mxCell>
         <mxCell id="MJF6vFf7zavwh5BGVUtp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;+ 1 熄灯前30min使用限制级软件采用站立姿势&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="1060" as="geometry" />
