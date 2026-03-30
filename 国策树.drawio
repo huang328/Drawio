@@ -211,6 +211,9 @@
         <mxCell id="Avn64kvGcPOBJvVkK60g-3" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="3.29失策原因&lt;br&gt;失国策影响有限，玩上头主观毁掉国策，反正第二天能重建" vertex="1">
           <mxGeometry height="150" width="190" x="-390" y="450" as="geometry" />
         </mxCell>
+        <mxCell id="Avn64kvGcPOBJvVkK60g-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="水之呼吸&lt;br&gt;每天至少喝两瓶水" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="900" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
