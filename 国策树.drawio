@@ -217,9 +217,6 @@
         <mxCell id="mcvAldfqvvFZ7ZRUAPpQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="消息只限中午和晚上休息时间回复" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="F2xB0idw2uEtlqwBIBMQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="工作日触发计时的位置使用限制级软件只能站立使用" vertex="1">
-          <mxGeometry height="60" width="120" x="-280" y="900" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
