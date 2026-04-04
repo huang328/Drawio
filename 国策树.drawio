@@ -76,6 +76,9 @@
         <mxCell id="B1fuLeS9RBR3NKVra5zc-15" parent="IpGJSZYHcnI9OjIyq8Mq-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="心无旁骛&lt;br&gt;工作日在公司16.00前禁止以任何形式浏览限制级软件，除非工作需要" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="40" as="geometry" />
         </mxCell>
+        <mxCell id="OrBjz5m8nXx1iCDQ5Hq3-2" parent="IpGJSZYHcnI9OjIyq8Mq-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="引导程序&lt;br&gt;每天早上起床后30min和晚上睡觉前刷牙洗脸" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="40" as="geometry" />
+        </mxCell>
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-8" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="400" as="geometry" />
         </mxCell>
@@ -211,11 +214,11 @@
         <mxCell id="Avn64kvGcPOBJvVkK60g-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="除颤启动&lt;div&gt;每天至少进行5次，每次仅15分钟的绝对专注(禁止任何无关信息摄入)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-420" y="825" as="geometry" />
         </mxCell>
-        <mxCell id="OrBjz5m8nXx1iCDQ5Hq3-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="引导程序&lt;br&gt;每天早上起床后30min和晚上睡觉前刷牙洗脸&lt;br&gt;+1 起床前1h只允许干正事" vertex="1">
-          <mxGeometry height="60" width="120" x="-280" y="890" as="geometry" />
-        </mxCell>
         <mxCell id="OrBjz5m8nXx1iCDQ5Hq3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="忧郁蓝调&lt;br&gt;工作日一天开始时先进行每日计划" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="oWVl6UT7kXHNw0PF-LpB-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1 起床后前1h只允许干正事" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
