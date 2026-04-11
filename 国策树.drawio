@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1914" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2184" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,14 +211,14 @@
         <mxCell id="Avn64kvGcPOBJvVkK60g-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="水之呼吸&lt;br&gt;每天至少喝两瓶水" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="mcvAldfqvvFZ7ZRUAPpQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="消息只限中午和晚上休息时间回复" vertex="1">
-          <mxGeometry height="60" width="120" x="-140" y="970" as="geometry" />
-        </mxCell>
         <mxCell id="Avn64kvGcPOBJvVkK60g-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="除颤启动&lt;div&gt;每天至少进行5次，每次仅15分钟的绝对专注(禁止任何无关信息摄入)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="900" as="geometry" />
         </mxCell>
         <mxCell id="XfRoupExHl6SM9xlxK0U-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外交构建&lt;br&gt;每两周参加一次与其他人沟通社交的活动" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="mcvAldfqvvFZ7ZRUAPpQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="工作日消息只限中午和晚上休息时间回复" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
