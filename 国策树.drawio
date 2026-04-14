@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1862" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1650" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,6 +142,9 @@
         <mxCell id="FlsU7catDcET9zgMuJdI-1" parent="pnyqKiJ39zt_POCX3Onk-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="虚空容器&lt;br&gt;每天完成15min闭眼养神" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="50" as="geometry" />
         </mxCell>
+        <mxCell id="Avn64kvGcPOBJvVkK60g-2" parent="pnyqKiJ39zt_POCX3Onk-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="绞死预言&lt;br&gt;拉黑自媒体关于&quot;程序员已死&quot;&quot;AI替代论&quot;&quot;行业寒冬&quot;焦虑言论" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="140" as="geometry" />
+        </mxCell>
         <mxCell id="ohaVwYe2ptzw7NrH0iqQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;火力准备&lt;br&gt;每个任务单元专门分&lt;br/&gt;配前5分钟至容易开始&lt;br/&gt;的目标&lt;/font&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-200" y="555" as="geometry" />
         </mxCell>
@@ -204,9 +207,6 @@
         </mxCell>
         <mxCell id="YGj3xFNoTSuxbDNC6z70-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="3.27实测原因&lt;br&gt;1.同3.20 (1)&lt;br&gt;2.腰痛无法运动导致的情绪消极，接受自己脆弱，配合身体解决问题&lt;br&gt;3.加班后报复性熬到23.00" vertex="1">
           <mxGeometry height="150" width="190" x="-580" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="Avn64kvGcPOBJvVkK60g-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="绞死预言&lt;br&gt;拉黑自媒体关于&quot;程序员已死&quot;&quot;AI替代论&quot;&quot;行业寒冬&quot;焦虑言论" vertex="1">
-          <mxGeometry height="60" width="120" x="-140" y="810" as="geometry" />
         </mxCell>
         <mxCell id="Avn64kvGcPOBJvVkK60g-3" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="3.29失策原因&lt;br&gt;失国策影响有限，玩上头主观毁掉国策，反正第二天能重建" vertex="1">
           <mxGeometry height="150" width="190" x="-390" y="450" as="geometry" />
