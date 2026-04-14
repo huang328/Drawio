@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1650" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1787" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="G2jZjO9oBAHkX45_UJvk-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="4.13失策原因&lt;br&gt;失国策影响有限，玩上头主观毁掉国策，反正第二天能重建" vertex="1">
           <mxGeometry height="150" width="190" x="-820" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="L9gMkFPX9ET9sms52AYS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="君子慎独&lt;br&gt;独居时要当作有舍友一样整理房间(垃圾和外卖固定位置，行李集中放)" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
