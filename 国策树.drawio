@@ -184,6 +184,9 @@
         <mxCell id="YFq2iZTxU0fjkHs2BbVw-1" parent="YFq2iZTxU0fjkHs2BbVw-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="料理禁足&lt;br&gt;晚八点后除了晚餐正餐外不进食" vertex="1">
           <mxGeometry height="60" width="120" x="11" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="L9gMkFPX9ET9sms52AYS-1" parent="YFq2iZTxU0fjkHs2BbVw-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="君子慎独&lt;br&gt;独居时要当作有舍友一样整理房间(垃圾和外卖固定位置，行李集中放)" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="120" as="geometry" />
+        </mxCell>
         <mxCell id="2_cqa8MKcAN35-M57-_v-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="减重限制&lt;br&gt;中午竞走，晚上夜跑" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="810" as="geometry" />
         </mxCell>
@@ -222,9 +225,6 @@
         </mxCell>
         <mxCell id="G2jZjO9oBAHkX45_UJvk-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="4.13失策原因&lt;br&gt;失国策影响有限，玩上头主观毁掉国策，反正第二天能重建" vertex="1">
           <mxGeometry height="150" width="190" x="-820" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="L9gMkFPX9ET9sms52AYS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="君子慎独&lt;br&gt;独居时要当作有舍友一样整理房间(垃圾和外卖固定位置，行李集中放)" vertex="1">
-          <mxGeometry height="60" width="120" x="-140" y="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
