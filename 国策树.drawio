@@ -115,12 +115,6 @@
         <mxCell id="blDLuJQCKf79EKfJ-Cxi-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="450" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每晚洗澡后至少练一四小节完整的音段" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="赛博畏光&lt;br&gt;睡前前15分钟远离蓝光，冥想或深呼吸平滑进睡眠" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="140" as="geometry" />
-        </mxCell>
         <mxCell id="K6lRclB1vccHZ36acX9j-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="功不唐娟&lt;br&gt;工作日每天生产新专业文本阅读的知识沉淀" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="50" as="geometry" />
         </mxCell>
@@ -231,6 +225,12 @@
         </mxCell>
         <mxCell id="JclXn7Q4oUXiwuoT8tbn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1&amp;nbsp;10.30后尽块完成手上事情并上床" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每晚洗澡后至少练一四小节完整的音段" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="赛博畏光&lt;br&gt;睡前前15分钟远离蓝光，冥想或深呼吸平滑进睡眠" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
