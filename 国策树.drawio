@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1855" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2093" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,6 +234,12 @@
         </mxCell>
         <mxCell id="yYrAKCu9balMVxFFUllr-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="注意约束&lt;br&gt;当前时间段无需要交付的任务时，才可进行单独限制级软件浏览，且需纳入30min一段的计时" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="NTeQSQ7pl8E0C1H1Vsci-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="恒生科技&lt;br&gt;允许周末放松日点30~40的外卖" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="NTeQSQ7pl8E0C1H1Vsci-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="限制间隙&lt;br&gt;散步可听歌、计划预约15min期间可无预约看限制级软件" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="1230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
