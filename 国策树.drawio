@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="B1fuLeS9RBR3NKVra5zc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;日拱一卒&lt;br&gt;每天新增/强化/调整表述一个国策&lt;/font&gt;" vertex="1">
-          <mxGeometry height="100" width="190" x="190" y="-170" as="geometry" />
+          <mxGeometry height="100" width="190" x="-275" y="1630" as="geometry" />
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="扎瓦鲁多&lt;br&gt;处理紧急情况时允许暂时冻结国策" vertex="1">
           <mxGeometry height="60" width="120" x="300" y="440" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry height="100" width="190" x="190" y="290" as="geometry" />
         </mxCell>
         <mxCell id="FNR3RzIvYv-M7O-Cg0RV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;慎终如始&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;每天熄灯时间~起床时间禁止限制级应用和网站，也禁止将其移出限制级&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="100" width="190" x="680" y="20" as="geometry" />
+          <mxGeometry height="100" width="190" x="10" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-2" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="T1 作息国策组" vertex="1">
           <mxGeometry height="30" width="80" x="395" y="150" as="geometry" />
@@ -172,9 +172,6 @@
         <mxCell id="MJF6vFf7zavwh5BGVUtp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1 限制级应用计时无法合并成整体任务" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="R8iQWR84kv6LYAYhWrRd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;模型裁剪&lt;br/&gt;工作日每天上午准备&lt;br/&gt;一个单元做笔记删减&lt;/font&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-280" y="970" as="geometry" />
-        </mxCell>
         <mxCell id="MJF6vFf7zavwh5BGVUtp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;+ 1 熄灯前30min使用限制级软件采用站立姿势&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="1060" as="geometry" />
         </mxCell>
@@ -220,12 +217,6 @@
         <mxCell id="NTeQSQ7pl8E0C1H1Vsci-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="恒生科技&lt;br&gt;允许周末放松日点30~40的外卖" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="1140" as="geometry" />
         </mxCell>
-        <mxCell id="NTeQSQ7pl8E0C1H1Vsci-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="限制间隙&lt;br&gt;散步可听歌、计划预约15min期间可无预约看限制级软件" vertex="1">
-          <mxGeometry height="60" width="120" x="-280" y="1230" as="geometry" />
-        </mxCell>
-        <mxCell id="K6lRclB1vccHZ36acX9j-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="功不唐娟&lt;br&gt;工作日每天生产新专业文本阅读的知识沉淀" vertex="1">
-          <mxGeometry height="60" width="120" x="-280" y="810" as="geometry" />
-        </mxCell>
         <mxCell id="mcvAldfqvvFZ7ZRUAPpQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="工作日消息只限中午和晚上休息时间回复" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="1230" as="geometry" />
         </mxCell>
@@ -241,11 +232,8 @@
         <mxCell id="EbW_i_ZtZpieSZF9_P0Z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;碎片禁止&lt;br&gt;限制级应用在使用1小时后，必须在计时限制内使用&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-140" y="1410" as="geometry" />
         </mxCell>
-        <mxCell id="PmbIQEbg_U_GPWdeKPpc-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;5.9失策原因&lt;br&gt;1.下班时间不定，回到宿舍在10~11点之间，而出门在8.15，项目紧迫使得晚上报复性玩和熬夜，平时最晚去到12点，周五1点，工作日限制&lt;br&gt;2.睡不足以及项目排期，导致早上没有静心学习的时间，而且国策树下午4点前在公司不浏览限制级软件也失败，习惯性在中午休息时间、等编译或claude code期间浏览限制级软件(b站、小红书)&lt;br&gt;3.睡前看蓝光电子产品，也影响了睡眠&lt;br&gt;4.每天懒于练习吉他，就一直没练，习惯的惯性&lt;br&gt;5.在工位上玩手机，破坏了神圣座位的习惯&lt;br&gt;6.懒于做每日计划，和收拾宿舍东西&lt;br&gt;7.刷牙洗脸不认真&lt;/font&gt;" vertex="1">
+        <mxCell id="PmbIQEbg_U_GPWdeKPpc-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;5.9失策原因&lt;br&gt;1.下班时间不定，回到宿舍在10~11点之间，而出门在8.15，项目紧迫使得晚上报复性玩和熬夜，平时最晚去到12点，周五1点，工作日限制&lt;br&gt;2.睡不足以及项目排期，导致早上没有静心学习的时间，而且国策树下午4点前在公司不浏览限制级软件也失败，习惯性在中午休息时间、等编译或claude code期间浏览限制级软件(b站、小红书)&lt;br&gt;3.睡前看蓝光电子产品，也影响了睡眠&lt;br&gt;4.每天懒于练习吉他，就一直没练，习惯的惯性&lt;br&gt;5.在工位上玩手机，破坏了神圣座位的习惯&lt;br&gt;6.懒于做每日计划，和收拾宿舍东西&lt;br&gt;7.刷牙洗脸不认真&lt;br&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="270" width="290" x="-590" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="PmbIQEbg_U_GPWdeKPpc-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外交构建&lt;br&gt;每两周参加一次与其他人沟通社交的活动" vertex="1">
-          <mxGeometry height="60" width="120" x="-5" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
