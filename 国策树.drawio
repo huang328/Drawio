@@ -241,6 +241,9 @@
         <mxCell id="PmbIQEbg_U_GPWdeKPpc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="夜幕降临&lt;br&gt;23:00~8:00间电子产品设置成黑白" vertex="1">
           <mxGeometry height="60" width="120" x="60" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="ouI0tyibNmRItolM98-g-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="100" width="780" x="40" y="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
