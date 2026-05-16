@@ -244,7 +244,7 @@
         <mxCell id="E1BmjUa39nN-s3r-4xEb-1" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="沐浴时间&lt;br&gt;下班回到宿舍先洗澡" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="Yu_SnolxlHeHXPUXuTdY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="神圣座位&lt;br&gt;工位上" vertex="1">
+        <mxCell id="Yu_SnolxlHeHXPUXuTdY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="神圣座位&lt;br&gt;工位上只处理计时任务，不允许浏览限制级软件" vertex="1">
           <mxGeometry height="60" width="120" x="-280" y="980" as="geometry" />
         </mxCell>
       </root>
