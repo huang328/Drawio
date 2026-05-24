@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1783" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2040" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,9 +187,6 @@
         <mxCell id="Avn64kvGcPOBJvVkK60g-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="除颤启动&lt;div&gt;每天至少进行5次，每次仅15分钟的绝对专注(禁止任何无关信息摄入)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="XfRoupExHl6SM9xlxK0U-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外交构建&lt;br&gt;每两周参加一次与其他人沟通社交的活动" vertex="1">
-          <mxGeometry height="60" width="120" x="-450" y="950" as="geometry" />
-        </mxCell>
         <mxCell id="G2jZjO9oBAHkX45_UJvk-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;4.13失策原因&lt;br&gt;失国策影响有限，玩上头主观毁掉国策，反正第二天能重建&lt;/font&gt;" vertex="1">
           <mxGeometry height="150" width="190" x="-827" y="800" as="geometry" />
         </mxCell>
@@ -201,9 +198,6 @@
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每晚洗澡后至少练一四小节完整的音段" vertex="1">
           <mxGeometry height="60" width="120" x="-450" y="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="yYrAKCu9balMVxFFUllr-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="注意约束&lt;br&gt;当前时间段无需要交付的任务时，才可进行单独限制级软件浏览，且需纳入30min一段的计时" vertex="1">
-          <mxGeometry height="60" width="120" x="-590" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="NTeQSQ7pl8E0C1H1Vsci-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="恒生科技&lt;br&gt;允许周末放松日点30~40的外卖" vertex="1">
           <mxGeometry height="60" width="120" x="-450" y="1370" as="geometry" />
@@ -239,7 +233,10 @@
           <mxGeometry height="60" width="120" x="350" y="20" as="geometry" />
         </mxCell>
         <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="避光电子羊&lt;br&gt;睡前预留15分钟远离蓝光，冥想或深呼吸平滑进睡眠，该时段不计入睡眠时间" vertex="1">
-          <mxGeometry height="60" width="120" x="510" y="20" as="geometry" />
+          <mxGeometry height="60" width="120" x="520" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYrAKCu9balMVxFFUllr-5" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="注意收束&lt;br&gt;上午无交付任务时，才可浏览限制级软件，且需纳入计时" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="20" as="geometry" />
         </mxCell>
         <mxCell id="Yu_SnolxlHeHXPUXuTdY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="神圣座位&lt;br&gt;工位上只处理计时任务，不允许浏览限制级软件" vertex="1">
           <mxGeometry height="60" width="120" x="-10" y="820" as="geometry" />
@@ -258,6 +255,9 @@
         </mxCell>
         <mxCell id="_YKmPrR8zzcQFsssiZJD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="平视拉伸&lt;br&gt;午休前和晚上饭后对脖颈拉伸15min" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="B48jFvLjDkkoX2mabf9S-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1 限制级应用计时无法合并成整体任务" vertex="1">
+          <mxGeometry height="60" width="120" x="-590" y="1040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
