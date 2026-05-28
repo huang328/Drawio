@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="2617" dy="2221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2340" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="OrBjz5m8nXx1iCDQ5Hq3-1" parent="IpGJSZYHcnI9OjIyq8Mq-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="忧郁蓝调&lt;br&gt;工作日一天开始时先进行每日计划" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fq32LiNcFVwkbLe5JWu0-1" parent="IpGJSZYHcnI9OjIyq8Mq-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="dead line收尾&lt;br&gt;九点前完成日报，晚上不要带当天待办回宿舍" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="150" as="geometry" />
         </mxCell>
         <mxCell id="IpGJSZYHcnI9OjIyq8Mq-8" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="400" as="geometry" />
@@ -249,9 +252,6 @@
         </mxCell>
         <mxCell id="PmbIQEbg_U_GPWdeKPpc-3" parent="PFgEfjVov-0TJs8gRU0h-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="国策组概念&lt;br&gt;每五个国策组有1个国策容错，组成后形成国策组父节点" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="Fq32LiNcFVwkbLe5JWu0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="dead line收尾&lt;br&gt;九点前完成日报，晚上不要带当天待办回宿舍" vertex="1">
-          <mxGeometry height="60" width="120" x="-590" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="_YKmPrR8zzcQFsssiZJD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外交构建&lt;br&gt;每两周参加一次与其他人沟通社交的活动" vertex="1">
           <mxGeometry height="60" width="120" x="-450" y="1130" as="geometry" />
