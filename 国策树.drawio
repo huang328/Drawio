@@ -259,7 +259,7 @@
         <mxCell id="B48jFvLjDkkoX2mabf9S-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1 限制级应用计时无法合并成整体任务" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="BNFGEF3gGzNEp1Pu7WQU-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;一步三算&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;每个关键节点前都需要进行仔细调研和尽可能全面的考察&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="BNFGEF3gGzNEp1Pu7WQU-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;一步三算&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;每个关键节点前都需要进行仔细调研和尽可能全面的考察&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="520" y="290" as="geometry" />
         </mxCell>
       </root>
