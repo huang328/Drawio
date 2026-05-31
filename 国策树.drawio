@@ -265,6 +265,9 @@
         <mxCell id="wzz8WTNF1mhYtNEO5V65-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="饮食摄入&lt;div&gt;饮食按红黑榜指引进行，除非突发情况&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1210" as="geometry" />
         </mxCell>
+        <mxCell id="wzz8WTNF1mhYtNEO5V65-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外出限制&lt;br&gt;周末只能约一天有户外活动，且必须约在中午以后的时间段" vertex="1">
+          <mxGeometry height="60" width="120" x="-590" y="1380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
