@@ -241,9 +241,6 @@
         <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="避光电子羊&lt;br&gt;睡前预留15分钟远离蓝光，冥想或深呼吸平滑进睡眠，该时段不计入睡眠时间" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="yYrAKCu9balMVxFFUllr-5" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="注意收束&lt;br&gt;上午无交付任务时，才可浏览限制级软件，且需纳入计时" vertex="1">
-          <mxGeometry height="60" width="120" x="680" y="20" as="geometry" />
-        </mxCell>
         <mxCell id="Yu_SnolxlHeHXPUXuTdY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="神圣座位&lt;br&gt;工位上只处理计时任务，不允许浏览限制级软件" vertex="1">
           <mxGeometry height="60" width="120" x="-10" y="820" as="geometry" />
         </mxCell>
@@ -267,6 +264,12 @@
         </mxCell>
         <mxCell id="wzz8WTNF1mhYtNEO5V65-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外出限制&lt;br&gt;周末只能约一天有户外活动，且必须约在中午以后的时间段" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="wzz8WTNF1mhYtNEO5V65-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外出限制&lt;br&gt;周末只能约一天有户外活动，且必须约在中午以后的时间段" vertex="1">
+          <mxGeometry height="60" width="120" x="-590" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="yYrAKCu9balMVxFFUllr-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="注意收束&lt;br&gt;上午无交付任务时，才可浏览限制级软件，且需纳入计时" vertex="1">
+          <mxGeometry height="60" width="120" x="-450" y="950" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
