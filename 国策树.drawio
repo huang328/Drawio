@@ -271,6 +271,9 @@
         <mxCell id="yYrAKCu9balMVxFFUllr-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="注意收束&lt;br&gt;上午无交付任务时，才可浏览限制级软件，且需纳入计时" vertex="1">
           <mxGeometry height="60" width="120" x="-450" y="950" as="geometry" />
         </mxCell>
+        <mxCell id="wzz8WTNF1mhYtNEO5V65-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="心无旁骛&lt;br&gt;工作日在公司16.00前禁止以任何形式浏览限制级软件，除非工作需要" vertex="1">
+          <mxGeometry height="60" width="120" x="-450" y="1550" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
