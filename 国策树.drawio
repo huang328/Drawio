@@ -241,6 +241,9 @@
         <mxCell id="xXpd9hJsaS8wwT7TWgnL-1" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="避光电子羊&lt;br&gt;睡前预留15分钟远离蓝光，冥想或深呼吸平滑进睡眠，该时段不计入睡眠时间" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="wzz8WTNF1mhYtNEO5V65-5" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="黄金时间&lt;br&gt;上午起床1.5小时内禁止浏览限制级软件，除非任务需要" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="20" as="geometry" />
+        </mxCell>
         <mxCell id="Yu_SnolxlHeHXPUXuTdY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="神圣座位&lt;br&gt;工位上只处理计时任务，不允许浏览限制级软件" vertex="1">
           <mxGeometry height="60" width="120" x="-10" y="820" as="geometry" />
         </mxCell>
