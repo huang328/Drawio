@@ -157,6 +157,9 @@
         <mxCell id="GYHfwP5nTr4zkCVt0_hk-1" parent="GYHfwP5nTr4zkCVt0_hk-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="阿基米德&lt;br&gt;沐浴时专注于清洁皮肤和头发&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+1 日常未洗手避免接触脸部皮肤&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="iGqp6RIbnFd0igxWglHa-2" parent="GYHfwP5nTr4zkCVt0_hk-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="澄如明镜&lt;br&gt;周一到周五下午禁止浏览带颜色按时的内容" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="20" as="geometry" />
+        </mxCell>
         <mxCell id="k1DrCY_w5ELpQ_oU7AUm-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="770" as="geometry" />
         </mxCell>
@@ -276,9 +279,6 @@
         </mxCell>
         <mxCell id="wzz8WTNF1mhYtNEO5V65-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="心无旁骛&lt;br&gt;工作日在公司16.00前禁止以任何形式浏览限制级软件，除非工作需要" vertex="1">
           <mxGeometry height="60" width="120" x="-450" y="1550" as="geometry" />
-        </mxCell>
-        <mxCell id="iGqp6RIbnFd0igxWglHa-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="澄如明镜&lt;br&gt;周一到周五下午禁止浏览带颜色按时的内容" vertex="1">
-          <mxGeometry height="60" width="120" x="-590" y="1210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
