@@ -160,6 +160,9 @@
         <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="GYHfwP5nTr4zkCVt0_hk-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节论述阅读，并留下至少一句新结论" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="mcvAldfqvvFZ7ZRUAPpQ-1" parent="GYHfwP5nTr4zkCVt0_hk-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="工作日收到的日常消息只限中午和晚上休息时间回复" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="120" as="geometry" />
+        </mxCell>
         <mxCell id="k1DrCY_w5ELpQ_oU7AUm-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="770" as="geometry" />
         </mxCell>
@@ -216,9 +219,6 @@
         </mxCell>
         <mxCell id="NTeQSQ7pl8E0C1H1Vsci-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="恒生科技&lt;br&gt;允许周末放松日点30~40的外卖" vertex="1">
           <mxGeometry height="60" width="120" x="470" y="1360" as="geometry" />
-        </mxCell>
-        <mxCell id="mcvAldfqvvFZ7ZRUAPpQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="工作日消息只限中午和晚上休息时间回复" vertex="1">
-          <mxGeometry height="60" width="120" x="-450" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="EbW_i_ZtZpieSZF9_P0Z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;碎片禁止&lt;br&gt;限制级应用在使用1小时后，必须在计时限制内使用&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-450" y="1640" as="geometry" />
