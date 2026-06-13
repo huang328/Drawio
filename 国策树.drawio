@@ -215,13 +215,13 @@
           <mxGeometry height="150" width="190" x="-827" y="800" as="geometry" />
         </mxCell>
         <mxCell id="JclXn7Q4oUXiwuoT8tbn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1&amp;nbsp;10.30后尽块完成手上事情并上床" vertex="1">
-          <mxGeometry height="60" width="120" x="-450" y="1290" as="geometry" />
+          <mxGeometry height="60" width="120" x="-450" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="NTeQSQ7pl8E0C1H1Vsci-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="恒生科技&lt;br&gt;允许周末放松日点30~40的外卖" vertex="1">
           <mxGeometry height="60" width="120" x="470" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="EbW_i_ZtZpieSZF9_P0Z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;碎片禁止&lt;br&gt;限制级应用在使用1小时后，必须在计时限制内使用&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-450" y="1640" as="geometry" />
+          <mxGeometry height="60" width="120" x="-450" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="PmbIQEbg_U_GPWdeKPpc-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;5.9失策原因&lt;br&gt;1.下班时间不定，回到宿舍在10~11点之间，而出门在8.15，项目紧迫使得晚上报复性玩和熬夜，平时最晚去到12点，周五1点，工作日限制&lt;br&gt;2.睡不足以及项目排期，导致早上没有静心学习的时间，而且国策树下午4点前在公司不浏览限制级软件也失败，习惯性在中午休息时间、等编译或claude code期间浏览限制级软件(b站、小红书)&lt;br&gt;3.睡前看蓝光电子产品，也影响了睡眠&lt;br&gt;4.每天懒于练习吉他，就一直没练，习惯的惯性&lt;br&gt;5.在工位上玩手机，破坏了神圣座位的习惯&lt;br&gt;6.懒于做每日计划，和收拾宿舍东西&lt;br&gt;7.刷牙洗脸不认真&lt;br&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="270" width="290" x="-590" y="640" as="geometry" />
@@ -266,10 +266,10 @@
           <mxGeometry height="60" width="120" x="-590" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="yYrAKCu9balMVxFFUllr-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="注意收束&lt;br&gt;上午无交付任务时，才可浏览限制级软件，且需纳入计时" vertex="1">
-          <mxGeometry height="60" width="120" x="-450" y="950" as="geometry" />
+          <mxGeometry height="60" width="120" x="-450" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="wzz8WTNF1mhYtNEO5V65-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="心无旁骛&lt;br&gt;工作日在公司16.00前禁止以任何形式浏览限制级软件，除非工作需要" vertex="1">
-          <mxGeometry height="60" width="120" x="-450" y="1550" as="geometry" />
+          <mxGeometry height="60" width="120" x="-450" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="qW8PqD0NCJV4hljiLw2X-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外出限制&lt;br&gt;周末最多只约一天有户外活动，且必须约在中午以后的时间段" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1290" as="geometry" />
