@@ -157,6 +157,9 @@
         <mxCell id="GYHfwP5nTr4zkCVt0_hk-1" parent="GYHfwP5nTr4zkCVt0_hk-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="阿基米德&lt;br&gt;沐浴时专注于清洁皮肤和头发&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+1 日常未洗手避免接触脸部皮肤&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="VU2FWrOFxlMOIDjI7F4B-1" parent="GYHfwP5nTr4zkCVt0_hk-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="无量空处&lt;br&gt;工作日上午设一段45min领域时间，该时间段不处理工作内容" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="20" as="geometry" />
+        </mxCell>
         <mxCell id="k1DrCY_w5ELpQ_oU7AUm-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="770" as="geometry" />
         </mxCell>
@@ -276,9 +279,6 @@
         </mxCell>
         <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节论述阅读，并留下至少一句新结论" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="VU2FWrOFxlMOIDjI7F4B-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="无量空处&lt;br&gt;工作日上午设一段45min领域时间，该时间段不处理工作内容" vertex="1">
-          <mxGeometry height="60" width="120" x="-590" y="1480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
