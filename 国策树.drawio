@@ -266,7 +266,7 @@
           <mxGeometry height="60" width="120" x="-450" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="qW8PqD0NCJV4hljiLw2X-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外出限制&lt;br&gt;周末最多只约一天有户外活动，且必须约在中午以后的时间段" vertex="1">
-          <mxGeometry height="60" width="120" x="-310" y="1390" as="geometry" />
+          <mxGeometry height="60" width="120" x="-450" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="iGqp6RIbnFd0igxWglHa-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="澄如明镜&lt;br&gt;周一到周五下午禁止浏览带颜色按时的内容" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1210" as="geometry" />
@@ -280,7 +280,7 @@
         <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节论述阅读，并留下至少一句新结论" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1300" as="geometry" />
         </mxCell>
-        <mxCell id="VU2FWrOFxlMOIDjI7F4B-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="心无旁骛&lt;br&gt;非休息日醒来后的前三个小时禁止浏览限制级软件" vertex="1">
+        <mxCell id="VU2FWrOFxlMOIDjI7F4B-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="心无旁骛&lt;br&gt;工作日醒来后的前三个小时禁止浏览限制级软件" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1480" as="geometry" />
         </mxCell>
       </root>
