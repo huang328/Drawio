@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1958" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2110" dy="2191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,6 +235,9 @@
         <mxCell id="PmbIQEbg_U_GPWdeKPpc-6" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="战斗姿势&lt;br&gt;23:00~8:00间浏览限制级软件必须处于站立状态" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="VU2FWrOFxlMOIDjI7F4B-2" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="专注塑造&lt;br&gt;工作日醒来后前三个小时禁止浏览限制级软件，除非任务需要" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="20" as="geometry" />
+        </mxCell>
         <mxCell id="Yu_SnolxlHeHXPUXuTdY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="神圣座位&lt;br&gt;工位上只处理计时任务，不允许浏览限制级软件" vertex="1">
           <mxGeometry height="60" width="120" x="-10" y="820" as="geometry" />
         </mxCell>
@@ -273,9 +276,6 @@
         </mxCell>
         <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节论述阅读，并留下至少一句新结论" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1300" as="geometry" />
-        </mxCell>
-        <mxCell id="VU2FWrOFxlMOIDjI7F4B-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="专注塑造&lt;br&gt;工作日醒来后前三个小时禁止浏览限制级软件，除非任务需要" vertex="1">
-          <mxGeometry height="60" width="120" x="-280" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="yYrAKCu9balMVxFFUllr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="彼岸双生&lt;br&gt;独居时作息和东西要收拾成有舍友的样子" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1480" as="geometry" />
