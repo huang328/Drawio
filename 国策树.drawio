@@ -97,6 +97,9 @@
         <mxCell id="W8aSpgX1gb-iDZ2opPZD-1" parent="IpGJSZYHcnI9OjIyq8Mq-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="整顿内务&lt;br&gt;5min内完成的内务在不计时时为最高优先级" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="wzz8WTNF1mhYtNEO5V65-2" parent="IpGJSZYHcnI9OjIyq8Mq-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="战斗时间&lt;br&gt;明天无上班计划时每周可空出一小时完成特定事件，事件结束后恢复国策" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="150" as="geometry" />
+        </mxCell>
         <mxCell id="WeB7dDUsKd77LbWdtYlu-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;3&quot;&gt;1.太过严格的时间以及模糊的目标，会产生争议的中间地带，需要准确易懂的标准&lt;br&gt;2.国策很多时候没考虑突发情况的应对&lt;br&gt;限制级软件：B站、知乎、小红书、微信消息、朋友圈外内容、游戏&lt;/font&gt;&lt;br&gt;&lt;font size=&quot;3&quot;&gt;3.彼岸双生作息：前同事舍友，9.00睡醒看小说、12.00吃饭、下午床上看小说、18.30吃饭+走动、21.00洗澡、22.30关灯&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: medium;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;4.国策目标&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1）作息规律，早睡早起&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2）早上留出自主探索学习时间&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3）保持练吉他的习惯&lt;br&gt;4）有积极沟通和倾向交流的习惯&lt;br&gt;5）有创作的作品&lt;br&gt;&lt;b&gt;饮食黑榜&lt;/b&gt;&lt;br&gt;川菜、重油盐菜(东北小龙虾、辣菜，含反式脂肪酸)、螺蛳粉、烧烤肥肉&lt;br&gt;碳水减半，不喝带糖奶茶喝饮料，不吃带糖零食&lt;br&gt;&lt;b&gt;饮食红榜&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font size=&quot;3&quot;&gt;多吃瘦肉、鸡胸肉、鱼、鸡蛋，蛋白质抗饿和修复肌肉&lt;br&gt;多吃深色蔬菜&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="330" width="410" x="-490" y="-100" as="geometry" />
         </mxCell>
@@ -256,9 +259,6 @@
         <mxCell id="BNFGEF3gGzNEp1Pu7WQU-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;一步三算&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;每个关键节点前都需要进行仔细调研和尽可能全面的考察&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="520" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="wzz8WTNF1mhYtNEO5V65-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="战斗时间&lt;br&gt;明天无上班计划时每周可空出一小时完成特定事件，事件结束后恢复国策" vertex="1">
-          <mxGeometry height="60" width="120" x="-590" y="1390" as="geometry" />
-        </mxCell>
         <mxCell id="yYrAKCu9balMVxFFUllr-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="注意收束&lt;br&gt;上午无交付任务时，才可浏览限制级软件，且需纳入计时" vertex="1">
           <mxGeometry height="60" width="120" x="-450" y="1040" as="geometry" />
         </mxCell>
@@ -279,6 +279,9 @@
         </mxCell>
         <mxCell id="yYrAKCu9balMVxFFUllr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="彼岸双生&lt;br&gt;独居时作息和东西要收拾成有舍友的样子" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="UlQLJjazlcm5hSoStlTc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="学习条件限制时" vertex="1">
+          <mxGeometry height="60" width="120" x="-590" y="1390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
