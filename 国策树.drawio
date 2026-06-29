@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="2200" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1727" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,9 +115,6 @@
         <mxCell id="2_cqa8MKcAN35-M57-_v-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="减重限制&lt;br&gt;当天无额外运动量时，午饭和晚饭后需快走消食" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每晚洗澡后至少练一四小节完整的音段" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="140" as="geometry" />
-        </mxCell>
         <mxCell id="VU2FWrOFxlMOIDjI7F4B-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="无量空处&lt;br&gt;工作日上午可设一段45min领域时间，该时间段不处理工作内容" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="50" as="geometry" />
         </mxCell>
@@ -159,6 +156,9 @@
         </mxCell>
         <mxCell id="k1DrCY_w5ELpQ_oU7AUm-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="yhabGOpOM0qFn8kDlKRV-1" parent="k1DrCY_w5ELpQ_oU7AUm-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="损耗规避&lt;br&gt;周末需要加班时需提前制定好计划来规避过多时间的投入" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="40" as="geometry" />
         </mxCell>
         <mxCell id="PR54cnRAbgGZMkScRMFo-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="合纵连横&lt;br&gt;多个单元任务可以合成一个整体任务完成" vertex="1">
           <mxGeometry height="60" width="120" x="-20" y="555" as="geometry" />
@@ -279,6 +279,9 @@
         </mxCell>
         <mxCell id="Fq32LiNcFVwkbLe5JWu0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="dead line收尾&lt;br&gt;九点后不做工作相关内容，晚上不要带当天待办回宿舍" vertex="1">
           <mxGeometry height="60" width="120" x="-450" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每晚洗澡后至少练一四小节完整的音段" vertex="1">
+          <mxGeometry height="60" width="120" x="-590" y="1480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
