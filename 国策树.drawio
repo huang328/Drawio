@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="2090" dy="2057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="2_cqa8MKcAN35-M57-_v-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="减重限制&lt;br&gt;当天无额外运动量时，午饭和晚饭后需快走消食" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="VU2FWrOFxlMOIDjI7F4B-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="无量空处&lt;br&gt;工作日上午可设一段45min领域时间，该时间段不处理工作内容" vertex="1">
+        <mxCell id="VU2FWrOFxlMOIDjI7F4B-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="无量空处&lt;br&gt;工作日上午可设一段45min领域时间，该时间段不处理工作内容&lt;br&gt;+1 延长到1小时" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="50" as="geometry" />
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每晚洗澡后至少练一四小节完整的音段" vertex="1">
