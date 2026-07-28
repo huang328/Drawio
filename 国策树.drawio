@@ -163,6 +163,9 @@
         <mxCell id="wzz8WTNF1mhYtNEO5V65-4" parent="GYHfwP5nTr4zkCVt0_hk-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="心无旁骛&lt;br&gt;工作日在公司16.00前禁止以任何形式浏览限制级软件，除非工作需要" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="B3q0Y2MhUBXSLp7jrIrx-1" parent="GYHfwP5nTr4zkCVt0_hk-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="奇妙番茄&lt;br&gt;工作日每次消息查看和回复需要间隔1h，除非是急call突发情况" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="120" as="geometry" />
+        </mxCell>
         <mxCell id="k1DrCY_w5ELpQ_oU7AUm-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="330" x="800" y="770" as="geometry" />
         </mxCell>
@@ -285,9 +288,6 @@
         </mxCell>
         <mxCell id="Fq32LiNcFVwkbLe5JWu0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="dead line收尾&lt;br&gt;九点后不做工作相关内容，晚上不要带当天待办回宿舍" vertex="1">
           <mxGeometry height="60" width="120" x="-590" y="1400" as="geometry" />
-        </mxCell>
-        <mxCell id="B3q0Y2MhUBXSLp7jrIrx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="奇妙番茄&lt;br&gt;工作日每次消息查看和回复需要间隔1h，除非是急call突发情况" vertex="1">
-          <mxGeometry height="60" width="120" x="-590" y="1210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
