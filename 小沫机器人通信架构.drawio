@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="9qq6Kg753T0dt0MTwhAS">
-    <mxGraphModel>
+    <mxGraphModel dx="889" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="83o9brFcQUwj_VITplnB-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-align: left;&quot;&gt;打开camera设备open(&quot;/dev/video0&quot;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="83o9brFcQUwj_VITplnB-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="camera架构" vertex="1">
+          <mxGeometry height="30" width="90" x="135" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="83o9brFcQUwj_VITplnB-4" parent="1" style="text;whiteSpace=wrap;" value="→→ioctl发命令给内核请求帧→select阻塞等待帧开始采集→camera节点发布CompressedImage到img_decode节点订阅，收到消息触发回调→回调调用mmp解码→mmp节点从mmap缓冲队列取数据启动解码→MJPEG转RGB解码结束→空队列点重新入队，MPP将数据拷贝到RGB缓冲区→做缩放等操作" vertex="1">
+          <mxGeometry height="100" width="560" x="190" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="83o9brFcQUwj_VITplnB-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-align: left;&quot;&gt;配置v4l2分辨率和帧率等参数，ioctl将参数写入设备&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="83o9brFcQUwj_VITplnB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-align: left;&quot;&gt;缓冲区队列经&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;mmap映射&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;，DQBUF入队，STREAMON流启动&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="83o9brFcQUwj_VITplnB-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-align: left;&quot;&gt;select阻塞等待帧开始采集，QBUF出队读mmap地址取数据帧&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="707" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="83o9brFcQUwj_VITplnB-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-align: left;&quot;&gt;select阻塞等待帧开始采集，QBUF出队读mmap地址取数据帧&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="83o9brFcQUwj_VITplnB-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;text-align: left;&quot;&gt;UVC camera设备通过DMA将帧放入刚入队的空桶&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="525" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
