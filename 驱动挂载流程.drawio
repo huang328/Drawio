@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel>
+    <mxGraphModel dx="1350" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-4" edge="1" parent="1" source="U8CRb3uHVv57Lg0N-E3P-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="U8CRb3uHVv57Lg0N-E3P-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="读屏厂规格书拿时序参数(HTotal/VTotal、pixel clock像素时钟)和初始化队列" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-6" edge="1" parent="1" source="U8CRb3uHVv57Lg0N-E3P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="U8CRb3uHVv57Lg0N-E3P-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="写到屏驱配置文件" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-8" edge="1" parent="1" source="U8CRb3uHVv57Lg0N-E3P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="U8CRb3uHVv57Lg0N-E3P-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="设备树在DSI控制器下挂panel子结点" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-11" edge="1" parent="1" source="U8CRb3uHVv57Lg0N-E3P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="U8CRb3uHVv57Lg0N-E3P-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="屏的初始化芯片走I2C，在对应i2c控制器下加节点，配reg从机地址reset/power GPIO" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="编译出.ko并在开机时加载" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="U8CRb3uHVv57Lg0N-E3P-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="屏驱挂载标准流程" vertex="1">
+          <mxGeometry height="30" width="120" x="130" y="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
