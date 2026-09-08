@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="2423" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2089" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,6 +154,9 @@
         <mxCell id="yhabGOpOM0qFn8kDlKRV-1" parent="k1DrCY_w5ELpQ_oU7AUm-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="损耗规避&lt;br&gt;周末需要加班时需提前制定好计划来规避过多时间的投入" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="50" as="geometry" />
         </mxCell>
+        <mxCell id="iGqp6RIbnFd0igxWglHa-2" parent="k1DrCY_w5ELpQ_oU7AUm-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="澄如明镜&lt;br&gt;周一到周五下午禁止浏览带颜色暗示的内容" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="50" as="geometry" />
+        </mxCell>
         <mxCell id="PR54cnRAbgGZMkScRMFo-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="合纵连横&lt;br&gt;多个单元任务可以合成一个整体任务完成" vertex="1">
           <mxGeometry height="60" width="120" x="-20" y="555" as="geometry" />
         </mxCell>
@@ -200,7 +203,7 @@
           <mxGeometry height="60" width="120" x="-260" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="NTeQSQ7pl8E0C1H1Vsci-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="恒生科技&lt;br&gt;允许周末放松日点30~40的外卖" vertex="1">
-          <mxGeometry height="60" width="120" x="-105" y="1540" as="geometry" />
+          <mxGeometry height="60" width="120" x="-105" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="EbW_i_ZtZpieSZF9_P0Z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;碎片禁止&lt;br&gt;限制级应用在使用1小时后，必须在计时限制内使用&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-260" y="1460" as="geometry" />
@@ -277,14 +280,8 @@
         <mxCell id="VU2FWrOFxlMOIDjI7F4B-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="专注澄清&lt;br&gt;每日醒来前1.5小时禁止浏览限制级软件，除非任务需要" vertex="1">
           <mxGeometry height="60" width="120" x="-400" y="1630" as="geometry" />
         </mxCell>
-        <mxCell id="L3WsLYnAGdhZavFUGFRs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="专注澄清&lt;br&gt;每日醒来前1.5小时禁止浏览限制级软件，除非任务需要" vertex="1">
-          <mxGeometry height="60" width="120" x="-400" y="1730" as="geometry" />
-        </mxCell>
         <mxCell id="P0J6trrPE-9lHaZfbbcA-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="领域展开&lt;br&gt;若当天无上班计划，晚上九点后禁止开游戏，十点半后禁止浏览限制级软件" vertex="1">
           <mxGeometry height="60" width="120" x="-110" y="1460" as="geometry" />
-        </mxCell>
-        <mxCell id="iGqp6RIbnFd0igxWglHa-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="澄如明镜&lt;br&gt;周一到周五下午禁止浏览带颜色暗示的内容" vertex="1">
-          <mxGeometry height="60" width="120" x="-110" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="4VlTNlxpeQ3AgO4PTp04-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="蹦蹦炸弹&lt;div&gt;限制级软件可以计入定时，休息效果更好&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-110" y="1280" as="geometry" />
