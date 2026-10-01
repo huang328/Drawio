@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1875" dy="2309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2248" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,6 +303,9 @@
         </mxCell>
         <mxCell id="L3WsLYnAGdhZavFUGFRs-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="领域展开强化&lt;br&gt;若当天无上班计划，九点后洗澡、家务、以及待办事物为最高优先级" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="X8MXt5Z4TilIORj6ai3U-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="原子行为&lt;div&gt;洗漱/吃饭/家务/洗澡等日常行为手机不放在视线范围内&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-260" y="1640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
