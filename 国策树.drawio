@@ -118,6 +118,9 @@
         <mxCell id="CokFAwRLlOQ5gVE9Ty6C-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="工活分离&lt;br&gt;晚8点后非当天紧急事件均阶段性总结停止处理，9点后非突发情况离开公司，并不再处理工作信息" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="140" as="geometry" />
         </mxCell>
+        <mxCell id="X8MXt5Z4TilIORj6ai3U-1" parent="blDLuJQCKf79EKfJ-Cxi-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="原子行为&lt;div&gt;洗漱/吃饭/家务/洗澡等日常行为手机不放在视线范围内&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="50" as="geometry" />
+        </mxCell>
         <mxCell id="pnyqKiJ39zt_POCX3Onk-1" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="230" width="300" x="130" y="770" as="geometry" />
         </mxCell>
@@ -303,9 +306,6 @@
         </mxCell>
         <mxCell id="L3WsLYnAGdhZavFUGFRs-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="领域展开强化&lt;br&gt;若当天无上班计划，九点后洗澡、家务、以及待办事物为最高优先级" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="1540" as="geometry" />
-        </mxCell>
-        <mxCell id="X8MXt5Z4TilIORj6ai3U-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="原子行为&lt;div&gt;洗漱/吃饭/家务/洗澡等日常行为手机不放在视线范围内&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-260" y="1640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
