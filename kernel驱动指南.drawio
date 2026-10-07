@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="sfxyIpK5QeOTsvyf9rtc">
-    <mxGraphModel dx="1718" dy="3217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1840" dy="3990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="5EIObTxK_PQqZk6ZDAFB-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LInux STR待机/挂起到RAM流程" vertex="1">
           <mxGeometry height="30" width="180" x="-120" y="-1680" as="geometry" />
+        </mxCell>
+        <mxCell id="F6RFGhOJmGOwDHTdEPOM-2" parent="1" style="text;whiteSpace=wrap;html=1;" value="优先级 | 章节 | 你重点看什么 | 对当前工作的价值 |&#xd;&#xa;|---|---|---|---|&#xd;&#xa;| **S** | **第12章 Linux设备驱动的软件架构思想** | **12.2 platform 总线/设备/驱动、12.3 分层、12.3.7 driver core、12.4 host/device 分离** | 解决你现在对 `device/driver/bus/probe` 的核心认知 |&#xd;&#xa;| **S** | **第18章 ARM Linux设备树** | `compatible/reg/interrupt/GPIO/clock/pinctrl/OF API` | 你现在 DTS/DTSI、Camera、雷达的直接基础 |&#xd;&#xa;| **S** | **第20章 芯片级移植及底层驱动** | **20.3 IRQ、20.6 GPIO、20.7 pinctrl、20.8 clock、20.9 dmaengine** | RK BSP 最直接的一章 |&#xd;&#xa;| **S** | **第15章 I2C核心、总线与设备驱动** | adapter/client/driver、总线传输、设备匹配 | Camera sensor、IMU 等大量外设都用 |&#xd;&#xa;| **S** | **第10章 中断与时钟** | IRQ、top/bottom half、workqueue、延时 | GPIO IRQ、Sensor IRQ、驱动异步处理 |&#xd;&#xa;| **S** | **第11章 内存与I/O访问** | MMIO、`ioremap/readl/writel`、DMA/cache一致性 | controller driver、Camera/RGA/DMA 都绕不开 |&#xd;&#xa;| **A** | 第7章 并发控制 | mutex/spinlock/completion/atomic | 看复杂驱动源码必须懂 |&#xd;&#xa;| **A** | 第19章 电源管理 | **19.5 regulator、19.9 suspend、19.10 runtime PM** | Camera/USB/传感器上下电非常实用 |&#xd;&#xa;| **A** | 第17章 I2C/SPI/USB架构类比 | host/controller 与 peripheral 的分层 | 正好补你现在“controller到底是谁”的理解 |&#xd;&#xa;| **A** | 第16章 USB | host/controller/device/URB | 你现在有 UVC Camera，值得看 |&#xd;&#xa;| **A** | 第21章 调试 | Oops、printk、性能工具 | 工程价值很高，但部分工具内容已经老 |&#xd;&#xa;| **B** | 第14章 网络设备 | netdev、TX/RX、link state | 你做 Wi-Fi/AP、GMAC 时再深入 |&#xd;&#xa;| **B** | 第5、6、8章 | sysfs、字符设备、阻塞/poll | Linux 驱动基本功，但不是当前主线 |&#xd;&#xa;| **B** | 第1～4章 | 基础、模块、内核概览 | 查漏补缺即可 |&#xd;&#xa;| **C** | 第9章异步IO、第13章块设备 | 专项知识 | 当前基本不用" vertex="1">
+          <mxGeometry height="380" width="560" x="-790" y="-2740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
