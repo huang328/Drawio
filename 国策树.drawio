@@ -238,6 +238,9 @@
         <mxCell id="PmbIQEbg_U_GPWdeKPpc-6" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="战斗姿势&lt;br&gt;23:00~8:00间浏览限制级软件必须处于站立状态" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="G0h4vqWeHecycN5bdqRL-1" parent="ouI0tyibNmRItolM98-g-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="口头述职&lt;div&gt;工作日每天早上口头讲诉上个工作日产出和本日计划&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="20" as="geometry" />
+        </mxCell>
         <mxCell id="Yu_SnolxlHeHXPUXuTdY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="神圣座位&lt;br&gt;工位上只处理计时任务，不允许浏览限制级软件" vertex="1">
           <mxGeometry height="60" width="120" x="-20" y="1040" as="geometry" />
         </mxCell>
@@ -306,9 +309,6 @@
         </mxCell>
         <mxCell id="qNFJZ2QNpMwFK7KADmy7-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="退火算法&lt;div&gt;23.00后尽可能快地关闭浏览的限制级软件，以kindle替代&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-410" y="1020" as="geometry" />
-        </mxCell>
-        <mxCell id="G0h4vqWeHecycN5bdqRL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="口头述职&lt;div&gt;工作日每天早上口头讲诉上个工作日产出和本日计划&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="1380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
