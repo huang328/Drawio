@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1685" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="2176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,7 @@
         <mxCell id="B3q0Y2MhUBXSLp7jrIrx-1" parent="pnyqKiJ39zt_POCX3Onk-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="奇妙番茄&lt;br&gt;工作日每次消息查看和回复需要间隔1h，除非是急call突发情况" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="9PnlQ4ssR_8SW1PX_FD3-1" parent="pnyqKiJ39zt_POCX3Onk-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="天气预报&lt;br&gt;每周限飞两次，若违反则下周禁欲" vertex="1">
+        <mxCell id="9PnlQ4ssR_8SW1PX_FD3-1" parent="pnyqKiJ39zt_POCX3Onk-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="天气预报&lt;br&gt;每周限飞两次，若违反则下周禁欲&lt;br&gt;+1 禁欲期间主动避免和退出任意相关内容" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="140" as="geometry" />
         </mxCell>
         <mxCell id="ohaVwYe2ptzw7NrH0iqQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; text-wrap-mode: wrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;火力准备&lt;br&gt;每个任务单元专门分&lt;br/&gt;配前5分钟至容易开始&lt;br/&gt;的目标&lt;/font&gt;&lt;/pre&gt;" vertex="1">
@@ -308,7 +308,10 @@
           <mxGeometry height="60" width="120" x="-260" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="qNFJZ2QNpMwFK7KADmy7-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="退火算法&lt;div&gt;23.00后尽可能快地关闭浏览的限制级软件，以kindle替代&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-410" y="1020" as="geometry" />
+          <mxGeometry height="60" width="120" x="-400" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="G0h4vqWeHecycN5bdqRL-2" edge="1" parent="1" source="qNFJZ2QNpMwFK7KADmy7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qNFJZ2QNpMwFK7KADmy7-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
