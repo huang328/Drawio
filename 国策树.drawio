@@ -250,9 +250,6 @@
         <mxCell id="PmbIQEbg_U_GPWdeKPpc-3" parent="PFgEfjVov-0TJs8gRU0h-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="国策组概念&lt;br&gt;每五个国策组有1个国策容错，组成后形成国策组父节点" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="_YKmPrR8zzcQFsssiZJD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="天气预报强化&lt;br&gt;+1 违反时下周禁欲，禁欲期间不能对其进行任意积极心理暗示" vertex="1">
-          <mxGeometry height="60" width="120" x="-260" y="1280" as="geometry" />
-        </mxCell>
         <mxCell id="B48jFvLjDkkoX2mabf9S-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="+1 限制级应用计时无法合并成整体任务" vertex="1">
           <mxGeometry height="60" width="120" x="-400" y="1190" as="geometry" />
         </mxCell>
@@ -264,12 +261,6 @@
         </mxCell>
         <mxCell id="mcvAldfqvvFZ7ZRUAPpQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="工作日收到的日常消息只限中午和晚上休息时间回复" vertex="1">
           <mxGeometry height="60" width="120" x="-400" y="1110" as="geometry" />
-        </mxCell>
-        <mxCell id="zJZYSnoFB1_QMDnHFb8m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="外语漫游&lt;br&gt;工作日到公司30min内开始一小节论述阅读，并留下至少一句新结论" vertex="1">
-          <mxGeometry height="60" width="120" x="-400" y="1450" as="geometry" />
-        </mxCell>
-        <mxCell id="Fq32LiNcFVwkbLe5JWu0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="dead line收尾&lt;br&gt;九点后不做工作相关内容，晚上不要带当天待办回宿舍" vertex="1">
-          <mxGeometry height="60" width="120" x="-400" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="yYrAKCu9balMVxFFUllr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="彼岸双生&lt;br&gt;独居时作息和东西要收拾成有舍友的样子" vertex="1">
           <mxGeometry height="60" width="120" x="-400" y="1360" as="geometry" />
