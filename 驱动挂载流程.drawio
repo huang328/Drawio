@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="884" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,14 +203,23 @@
         <mxCell id="I16DbaLWXgVnc-UUw8jS-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="按次设备号找到ds1620_miscdev，private_data指向ds1620_miscdev" vertex="1">
           <mxGeometry height="60" width="120" x="2240" y="1130" as="geometry" />
         </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-40" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I16DbaLWXgVnc-UUw8jS-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="file的操作表切换为ds1620_fops" vertex="1">
           <mxGeometry height="60" width="120" x="2472" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-42" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-41" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I16DbaLWXgVnc-UUw8jS-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="调用ds1620_open() ，并成功返回fd" vertex="1">
           <mxGeometry height="60" width="120" x="2690" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="I16DbaLWXgVnc-UUw8jS-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;misc设备核心层工作和用户态执行&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="270" x="1950" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ds1620设备实现接口" vertex="1">
+          <mxGeometry height="60" width="120" x="2895" y="1130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
