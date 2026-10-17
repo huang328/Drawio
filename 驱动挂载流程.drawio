@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="2210" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,10 +138,82 @@
           <mxGeometry height="1045" width="1807" x="53" y="505" as="geometry" />
         </mxCell>
         <mxCell id="I16DbaLWXgVnc-UUw8jS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;隐者协议清单&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1.AP详细链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2.驱动加载依赖列表&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3.按设备分类运行层次数据链路&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="570" width="570" x="1910" y="60" as="geometry" />
+          <mxGeometry height="120" width="510" x="1910" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="I16DbaLWXgVnc-UUw8jS-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="495" width="1077" x="2039" y="520" as="geometry" />
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-32" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value=" " vertex="1">
+          <mxGeometry height="330" width="1077" x="1950" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-17" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="misc_init()初始化" vertex="1">
+          <mxGeometry height="60" width="120" x="2008" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;核心层&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="270" x="1933" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-15" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;register_chrdev()&lt;/code&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="2290" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font face=&quot;Helvetica&quot;&gt;注册misc类，通过&lt;span style=&quot;text-align: left;&quot;&gt;register_chrdev()为主设备号注册公共入口misc_fops()&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2240" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-22" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DS1620驱动" vertex="1">
+          <mxGeometry height="60" width="120" x="2008" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-23" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="定义自己的ds1620_fops类，将其放入ds1620_miscrdev.fops" vertex="1">
+          <mxGeometry height="60" width="120" x="2240" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-20" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;code&gt;misc_register(&amp;amp;ds1620_miscdev)&lt;/code&gt;" vertex="1">
+          <mxGeometry height="40" width="250" x="2410" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-25" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;misc_register(&amp;amp;ds1620_miscdev)&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2472" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="登记misc实例，处理次设备号，放入misc链表；创建设备模型的struct device" vertex="1">
+          <mxGeometry height="60" width="120" x="2690" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value=" " vertex="1">
+          <mxGeometry height="330" width="1077" x="1950" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-31" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="用户打开/dev/temp" vertex="1">
+          <mxGeometry height="60" width="120" x="2008" y="997.5" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;内核层&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="270" x="1933" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-34" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="调用公共的misc_open()" vertex="1">
+          <mxGeometry height="60" width="120" x="2240" y="997.5" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-36" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="按次设备号找到ds1620_miscdev，private_data指向ds1620_miscdev" vertex="1">
+          <mxGeometry height="60" width="120" x="2240" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="file的操作表切换为ds1620_fops" vertex="1">
+          <mxGeometry height="60" width="120" x="2472" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="调用ds1620_open() ，并成功返回fd" vertex="1">
+          <mxGeometry height="60" width="120" x="2690" y="1130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
