@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67">
   <diagram name="第 1 页" id="CAHq5wpfGiY69Zr28IA7">
-    <mxGraphModel dx="1564" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2656" dy="2685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,6 +309,9 @@
         </mxCell>
         <mxCell id="B1fuLeS9RBR3NKVra5zc-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="灵魂之王&lt;br&gt;每天尽量空出15min练吉他" vertex="1">
           <mxGeometry height="60" width="120" x="-260" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="KMZ3qPDR8JxC6EOJ5L15-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="交易冻结&lt;div&gt;指定交易策略内若无计划设止损或未到止损日期则不能进行定投策略调整，只在计划内可以进行份额卖出&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-400" y="1460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
