@@ -316,9 +316,6 @@
         <mxCell id="KMZ3qPDR8JxC6EOJ5L15-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="交易冻结&lt;div&gt;指定交易策略内若无计划设止损或未到止损日期则不能进行定投策略调整，只在计划内可以进行份额卖出&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-400" y="1460" as="geometry" />
         </mxCell>
-        <mxCell id="AvvVyJtcHQj52757yUGm-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;每月第一周周末确定本月建仓与定投配比，但对于已通过盈亏预测决定清仓的资产，允许在下半月提前提交赎回指令，赎回资金在次月第一周末前禁止买入任何新标的&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="560" x="1100" y="680" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
