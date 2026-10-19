@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TPiZZt9vb3zJwYKScggf-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value=" " vertex="1">
+          <mxGeometry height="1180" width="1077" x="1955" y="3250" as="geometry" />
+        </mxCell>
         <mxCell id="I16DbaLWXgVnc-UUw8jS-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=" " vertex="1">
           <mxGeometry height="579" width="280" x="1955" y="2365" as="geometry" />
         </mxCell>
@@ -274,6 +277,111 @@
         </mxCell>
         <mxCell id="I16DbaLWXgVnc-UUw8jS-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;内核软件mac层：net/mac80211&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="357.5" x="1918.75" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;客户端&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2403.5" y="3430" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;I2C驱动分层&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="1883" y="3180" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;I2C设备驱动&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2096.25" y="3430" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;I2C核心层&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="800" x="2100" y="3560" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;I2C适配器&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2730" y="3760" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;I2C适配器&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2481" y="4120" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;I2C适配器硬件相关的代码&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2481" y="3960" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2040" y="3400" as="sourcePoint" />
+            <mxPoint x="2932.409638554217" y="3400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用程序&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2401" y="3280" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户空间&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="1915" y="3290" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;i2c_dev&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2715" y="3430" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2040" y="4091" as="sourcePoint" />
+            <mxPoint x="2932.409638554217" y="4091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;内核层&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="1906.25" y="3400" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;硬件层&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="1900" y="4100" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;I2C设备&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2210" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;I2C设备&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2700" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value=" ">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2330" y="4240" as="sourcePoint" />
+            <mxPoint x="2770" y="4240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value=" ">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2330" y="4290" as="sourcePoint" />
+            <mxPoint x="2770" y="4290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2600" y="4290" as="sourcePoint" />
+            <mxPoint x="2600" y="4200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2530" y="4240" as="sourcePoint" />
+            <mxPoint x="2530" y="4200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-22" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2370" y="4320" as="sourcePoint" />
+            <mxPoint x="2370" y="4240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2715" y="4320" as="sourcePoint" />
+            <mxPoint x="2715" y="4240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2340" y="4320" as="sourcePoint" />
+            <mxPoint x="2340" y="4290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2750" y="4320" as="sourcePoint" />
+            <mxPoint x="2750" y="4290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;algorithm&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2380" y="3760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
