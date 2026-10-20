@@ -420,8 +420,14 @@
         <mxCell id="TPiZZt9vb3zJwYKScggf-54" parent="TPiZZt9vb3zJwYKScggf-51" style="swimlane;startSize=0;horizontal=0;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="70" y="50" as="geometry" />
         </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-114" parent="TPiZZt9vb3zJwYKScggf-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="adapter" vertex="1">
+          <mxGeometry height="30" width="70" as="geometry" />
+        </mxCell>
         <mxCell id="TPiZZt9vb3zJwYKScggf-55" parent="TPiZZt9vb3zJwYKScggf-51" style="swimlane;startSize=0;horizontal=0;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="70" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TPiZZt9vb3zJwYKScggf-115" parent="TPiZZt9vb3zJwYKScggf-55" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="driver" vertex="1">
+          <mxGeometry height="30" width="70" as="geometry" />
         </mxCell>
         <mxCell id="TPiZZt9vb3zJwYKScggf-56" parent="TPiZZt9vb3zJwYKScggf-51" style="swimlane;startSize=0;horizontal=0;html=1;" value=" " vertex="1">
           <mxGeometry height="30" width="70" y="110" as="geometry" />
