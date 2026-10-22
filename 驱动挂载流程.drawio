@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="1486" dy="1465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
         <mxCell id="I16DbaLWXgVnc-UUw8jS-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="1045" width="1807" x="53" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="I16DbaLWXgVnc-UUw8jS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;隐者协议清单&lt;br&gt;0.misc设备核心层工作和用户态执行&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1.AP详细链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2.驱动加载依赖列表&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3.按设备分类运行层次数据链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;4.I2C设备流程&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;5.mipi摄像头数据路径&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;隐者协议清单&lt;br&gt;0.misc设备核心层工作和用户态执行&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1.AP详细链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2.驱动加载依赖列表&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3.按设备分类运行层次数据链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;4.I2C设备流程&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;5.mipi摄像头数据路径&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;6.fastboot启动对比流程图&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="510" x="1910" y="60" as="geometry" />
         </mxCell>
         <mxCell id="I16DbaLWXgVnc-UUw8jS-32" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-26" value="">
