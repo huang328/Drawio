@@ -178,6 +178,9 @@
         <mxCell id="AvvVyJtcHQj52757yUGm-2" parent="k1DrCY_w5ELpQ_oU7AUm-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;align=center;" value="投资严律&lt;div&gt;每月第一周周末确定本月建仓-定投配比和买入新标的，允许在下半月提前赎回&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;已通过盈亏预测决定清仓的资产&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="iGqp6RIbnFd0igxWglHa-2" parent="k1DrCY_w5ELpQ_oU7AUm-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="澄如明镜&lt;br&gt;工作日周一到周五下午禁止浏览带颜色暗示的内容，越界前做反向大脑暗示，并书面记录想法" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="150" as="geometry" />
+        </mxCell>
         <mxCell id="PR54cnRAbgGZMkScRMFo-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="合纵连横&lt;br&gt;多个单元任务可以合成一个整体任务完成" vertex="1">
           <mxGeometry height="60" width="120" x="-20" y="555" as="geometry" />
         </mxCell>
@@ -318,9 +321,6 @@
         </mxCell>
         <mxCell id="KMZ3qPDR8JxC6EOJ5L15-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="交易冻结&lt;div&gt;指定交易策略内若无计划设止损或未到止损日期则不能进行定投策略调整，只在计划内可以进行份额卖出&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-400" y="1460" as="geometry" />
-        </mxCell>
-        <mxCell id="iGqp6RIbnFd0igxWglHa-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="澄如明镜&lt;br&gt;工作日周一到周五下午禁止浏览带颜色暗示的内容" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="YA2tsSGeGtScef4s--J7-1" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;10.29失策原因&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1.刷到短视频暗示性内容+上周只留一次+压力排解导致&quot;澄如明镜&quot;破损，将想法写下来清掉缓存，然后做正确的合理的事情&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="230" width="320" x="-795" y="1870" as="geometry" />
