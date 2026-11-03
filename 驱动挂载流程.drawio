@@ -1185,6 +1185,9 @@
         <mxCell id="P9W1uKOt4twRel0Qtk_G-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="无响应或型号不符，初始化失败" vertex="1">
           <mxGeometry height="80" width="180" x="2253" y="2923" as="geometry" />
         </mxCell>
+        <mxCell id="2NOt9I0xqU4rARRQJwfY-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;重复stop：保留两个调用来源，保证状态转换只发生一次&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="1995" y="5610" as="geometry" />
+        </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;TASKLET数据路径&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="370" x="1895" y="4650" as="geometry" />
         </mxCell>
