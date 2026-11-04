@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="3359" dy="1364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3708" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -539,7 +539,7 @@
           <mxGeometry height="30" width="130" as="geometry" />
         </mxCell>
         <mxCell id="TPiZZt9vb3zJwYKScggf-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;I2C驱动数据结构关系&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="370" x="3390" y="3140" as="geometry" />
+          <mxGeometry height="30" width="370" x="3509" y="3230" as="geometry" />
         </mxCell>
         <mxCell id="TPiZZt9vb3zJwYKScggf-120" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;i2cdev_ioctl&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="3520" y="3770" as="geometry" />
@@ -1020,6 +1020,17 @@
         <mxCell id="u90evlcP-T-NCtnqiBV2-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CIF采集硬件&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="2870" y="1800" as="geometry" />
         </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-2" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-17" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2870" y="2690" />
+              <mxPoint x="3050" y="2690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u90evlcP-T-NCtnqiBV2-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;DMA搬运数据到内存&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="2780" y="1950" as="geometry" />
         </mxCell>
@@ -1077,6 +1088,9 @@
         <mxCell id="u90evlcP-T-NCtnqiBV2-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;重新放入队列处理&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3280" y="2490" as="geometry" />
         </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-11" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u90evlcP-T-NCtnqiBV2-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;调用tasklet对象绑定的rkcif_tasklet_handler&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3280" y="2864" as="geometry" />
         </mxCell>
@@ -1086,7 +1100,7 @@
         <mxCell id="u90evlcP-T-NCtnqiBV2-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="帧完成或采集错误等事件" vertex="1">
           <mxGeometry height="30" width="120" x="3015" y="1930" as="geometry" />
         </mxCell>
-        <mxCell id="u90evlcP-T-NCtnqiBV2-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="提交延后任务" vertex="1">
+        <mxCell id="u90evlcP-T-NCtnqiBV2-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="需要延后处理时，提交延后任务" vertex="1">
           <mxGeometry height="30" width="120" x="3058" y="2284" as="geometry" />
         </mxCell>
         <mxCell id="u90evlcP-T-NCtnqiBV2-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="tasklet对象暂时不能执行" vertex="1">
@@ -1229,6 +1243,54 @@
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;参数转LSC tasklet&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="370" x="2230" y="4780" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-5" edge="1" parent="1" source="WCtbx35mezFaZlYUoL2D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;DDR：RAW帧缓冲区&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2650" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DMA回读" vertex="1">
+          <mxGeometry height="30" width="120" x="2680" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-14" edge="1" parent="1" source="WCtbx35mezFaZlYUoL2D-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ISP RAW回读入口&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2650" y="2338" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-15" edge="1" parent="1" source="WCtbx35mezFaZlYUoL2D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ISP：Bayer图像处理&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2650" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-16" edge="1" parent="1" source="WCtbx35mezFaZlYUoL2D-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;mainpath：输出图像到DDR&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2650" y="2647.69" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;应用获取并处理图像&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2650" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-19" edge="1" parent="1" source="WCtbx35mezFaZlYUoL2D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;vb2完成队列&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3280" y="3020" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="完成buffer" vertex="1">
+          <mxGeometry height="30" width="120" x="3310" y="2967" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CIF RAW video节点&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="2960" y="3120" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="通过采集接口访问" vertex="1">
+          <mxGeometry height="30" width="120" x="2810" y="2439" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="允许DQBUF获取" vertex="1">
+          <mxGeometry height="30" width="120" x="3110" y="3020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
