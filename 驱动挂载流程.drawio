@@ -1020,17 +1020,6 @@
         <mxCell id="u90evlcP-T-NCtnqiBV2-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CIF采集硬件&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="2870" y="1800" as="geometry" />
         </mxCell>
-        <mxCell id="WCtbx35mezFaZlYUoL2D-2" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WCtbx35mezFaZlYUoL2D-17" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2870" y="2690" />
-              <mxPoint x="3050" y="2690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u90evlcP-T-NCtnqiBV2-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;DMA搬运数据到内存&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="2780" y="1950" as="geometry" />
         </mxCell>
@@ -1087,9 +1076,6 @@
         </mxCell>
         <mxCell id="u90evlcP-T-NCtnqiBV2-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;重新放入队列处理&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3280" y="2490" as="geometry" />
-        </mxCell>
-        <mxCell id="WCtbx35mezFaZlYUoL2D-11" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-9" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u90evlcP-T-NCtnqiBV2-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;调用tasklet对象绑定的rkcif_tasklet_handler&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3280" y="2864" as="geometry" />
@@ -1243,6 +1229,20 @@
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;参数转LSC tasklet&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="370" x="2230" y="4780" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-2" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-17" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2870" y="2690" />
+              <mxPoint x="3050" y="2690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCtbx35mezFaZlYUoL2D-11" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-9" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WCtbx35mezFaZlYUoL2D-5" edge="1" parent="1" source="WCtbx35mezFaZlYUoL2D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-4" value="">
           <mxGeometry relative="1" as="geometry" />
