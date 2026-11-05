@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="5867" dy="2614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3260" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -903,7 +903,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TPiZZt9vb3zJwYKScggf-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;mipi摄像头数据路径&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="530" x="2810" y="1380" as="geometry" />
+          <mxGeometry height="30" width="530" x="3149" y="1340" as="geometry" />
         </mxCell>
         <mxCell id="TPiZZt9vb3zJwYKScggf-301" edge="1" parent="1" source="TPiZZt9vb3zJwYKScggf-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TPiZZt9vb3zJwYKScggf-75">
           <mxGeometry relative="1" as="geometry" />
@@ -1133,46 +1133,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;重复stop：保留两个调用来源，保证状态转换只发生一次&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="1990" y="5620" as="geometry" />
+          <mxGeometry height="80" width="180" x="4255" y="2350" as="geometry" />
         </mxCell>
-        <mxCell id="2NOt9I0xqU4rARRQJwfY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;TASKLET更正数据路径&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="370" x="1895" y="4650" as="geometry" />
+        <mxCell id="2NOt9I0xqU4rARRQJwfY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;TASKLET数据路径(&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;更正后&lt;/b&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="4160" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-8" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化：创建tasklet，建立初始禁止执行状态&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="1990" y="4740" as="geometry" />
+          <mxGeometry height="80" width="180" x="4255" y="1470" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-9" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;首参数到达：先同步旧任务，再保存参数，按条件启用&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="1990" y="4920" as="geometry" />
+          <mxGeometry height="80" width="180" x="4255" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-10" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ISP启动：通过前置检查后，允许LSC在启流配置阶段工作&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="1990" y="5100" as="geometry" />
+          <mxGeometry height="80" width="180" x="4255" y="1830" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-11" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ISP停止：先同步LSC，再停止或复位ISP&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="1990" y="5270" as="geometry" />
+          <mxGeometry height="80" width="180" x="4255" y="2000" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-14" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;params停止：在唤醒其他停留线程之前，同步LSC&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="1990" y="5440" as="geometry" />
+          <mxGeometry height="80" width="180" x="4255" y="2170" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;卸载：同步结束后才释放参数与tasklet所属对象&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="1990" y="5800" as="geometry" />
-        </mxCell>
-        <mxCell id="2NOt9I0xqU4rARRQJwfY-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;参数转LSC tasklet&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="370" x="2230" y="4780" as="geometry" />
+          <mxGeometry height="80" width="180" x="4255" y="2530" as="geometry" />
         </mxCell>
         <mxCell id="WCtbx35mezFaZlYUoL2D-2" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1235,6 +1232,9 @@
         </mxCell>
         <mxCell id="WCtbx35mezFaZlYUoL2D-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="允许DQBUF获取" vertex="1">
           <mxGeometry height="30" width="120" x="3559" y="2910" as="geometry" />
+        </mxCell>
+        <mxCell id="lW58ntbsofe4bpGpLtgx-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;参数变成LSC tasklet&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;-----rkisp.c&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;使用RAW回读rkisp_trigger_read_back()&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;-----isp_params.c&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;--普通参数进入队rkisp_params_vb2_buf_queue()&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;--当前帧参数分发rkisp_params_first_cfg()、v3x first_cfg/param_cfg&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;-----isp_params_v3x.c&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;--LSC配置分发&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;__isp_isr_other_config()，&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;在LSC配置更新位满足时调用isp_lsc_config()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;--LSC使能分发&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;__isp_isr_other_en()&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;，在LSC使能更新位满足时调用isp_lsc_enable()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;--进入两个调度入口isp_lsc_schedule()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;非中断上下文使能LSC时，可通过&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;isp_lsc_matrix_cfg_sram()直接调用SRAM配置函数，因此LSC配置并非全部经过tasklet&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;软中断执行链&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-----interrupt.h&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;--配置pending，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;test_and_set_bit()设置SCHED，已经设置则不重复入队&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;-----softirq.c&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;--入本CPU队列，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;__tasklet_schedule_common()挂到tasklet队尾+触发软中断&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;--检查执行资格，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;tasklet_action_common()读取count，在count=0时清SCHED后调用t-&amp;gt;func(t-&amp;gt;data)，此处原故障循环会在count非零时重新入队并再次raise&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-----isp_params_v3x.c&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;--LSC回调检查，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;isp_lsc_cfg_sram_task()，&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;加锁读取GATE，关闭则返回，并调用matrix配置，unite时配置另一组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;--SRAM实现&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;isp_lsc_matrix_cfg_sram()，检查硬件LSC使能、写表地址+校正表数据+切换表&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;--必须保持count=0再同步，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;tasklet_kill()等待SCHED清除+RUN退出，若提前disable导致pending永远无法被处理，等待无法结束&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="630" width="680" x="4490" y="1500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
