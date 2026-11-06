@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="2779" dy="2187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3008" dy="2394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1237,64 +1237,70 @@
           <mxGeometry height="630" width="680" x="4549" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;mipi雷达数据路径&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="530" x="3140" y="-110" as="geometry" />
+          <mxGeometry height="30" width="530" x="3593.5" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-10" edge="1" parent="1" source="lW58ntbsofe4bpGpLtgx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="lW58ntbsofe4bpGpLtgx-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;雷达内部采样+处理&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3319" y="-26" as="geometry" />
+          <mxGeometry height="80" width="180" x="3763.5" y="-26" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-13" edge="1" parent="1" source="lW58ntbsofe4bpGpLtgx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="lW58ntbsofe4bpGpLtgx-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;雷达内部采样+处理&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3319" y="139" as="geometry" />
+          <mxGeometry height="80" width="180" x="3763.5" y="139" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="按供应商格式组织数据" vertex="1">
-          <mxGeometry height="30" width="130" x="3344" y="84" as="geometry" />
+          <mxGeometry height="30" width="130" x="3788.5" y="84" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-20" edge="1" parent="1" source="lW58ntbsofe4bpGpLtgx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="lW58ntbsofe4bpGpLtgx-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;雷达D-PHY TX&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3319" y="304" as="geometry" />
+          <mxGeometry height="80" width="180" x="3763.5" y="304" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-21" edge="1" parent="1" source="lW58ntbsofe4bpGpLtgx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="lW58ntbsofe4bpGpLtgx-16" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;RK板端D-PHY RX&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3319" y="474" as="geometry" />
+          <mxGeometry height="80" width="180" x="3763.5" y="474" as="geometry" />
         </mxCell>
-        <mxCell id="lW58ntbsofe4bpGpLtgx-22" edge="1" parent="1" source="lW58ntbsofe4bpGpLtgx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="lW58ntbsofe4bpGpLtgx-17" value="">
+        <mxCell id="lW58ntbsofe4bpGpLtgx-29" edge="1" parent="1" source="lW58ntbsofe4bpGpLtgx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="lW58ntbsofe4bpGpLtgx-28" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;CSI-2 Host：接收、解析数据包、检查协议错误&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3319" y="644" as="geometry" />
+          <mxGeometry height="80" width="180" x="3763.5" y="644" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-23" edge="1" parent="1" source="lW58ntbsofe4bpGpLtgx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="lW58ntbsofe4bpGpLtgx-18" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lW58ntbsofe4bpGpLtgx-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: medium;&quot;&gt;RKCIF驱动配VICAP、DMA地址、stride&lt;br&gt;走&lt;/span&gt;&lt;font size=&quot;3&quot;&gt;VICAP采集硬件&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3319" y="794" as="geometry" />
+        <mxCell id="lW58ntbsofe4bpGpLtgx-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;VICAP采集硬件&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3763.5" y="950" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-24" edge="1" parent="1" source="lW58ntbsofe4bpGpLtgx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="lW58ntbsofe4bpGpLtgx-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;VICAP内的DMA写通路&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3319" y="949" as="geometry" />
+          <mxGeometry height="80" width="180" x="3763.5" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;DDR中的采集buffer&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3319" y="1110" as="geometry" />
+          <mxGeometry height="80" width="180" x="3763.5" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FPC：CLK、D0D1" vertex="1">
-          <mxGeometry height="30" width="130" x="3330" y="414" as="geometry" />
+          <mxGeometry height="30" width="130" x="3774.5" y="414" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="选通道、格式处理、尺寸/裁剪、存储布局" vertex="1">
-          <mxGeometry height="30" width="237" x="3295.5" y="896" as="geometry" />
+          <mxGeometry height="30" width="237" x="3750" y="1086" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DMA地址经过IOMMU映射(启用时)" vertex="1">
-          <mxGeometry height="30" width="237" x="3295.5" y="1060" as="geometry" />
+          <mxGeometry height="30" width="237" x="3750" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="lW58ntbsofe4bpGpLtgx-30" edge="1" parent="1" source="lW58ntbsofe4bpGpLtgx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="lW58ntbsofe4bpGpLtgx-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lW58ntbsofe4bpGpLtgx-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: medium;&quot;&gt;RKCIF驱动配VICAP、DMA地址、stride&lt;br&gt;管理上游subdev,启动接收链路&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3763.5" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
