@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="3480" dy="2507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3225" dy="2334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1341,7 +1341,7 @@
         <mxCell id="LhNuREKmqUYwY5woirBo-18" edge="1" parent="1" source="LhNuREKmqUYwY5woirBo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="LhNuREKmqUYwY5woirBo-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LhNuREKmqUYwY5woirBo-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;与已经注册或稍后注册的i2c_driver匹配&lt;/font&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="LhNuREKmqUYwY5woirBo-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;i2c_cilent与已经注册或稍后注册的i2c_driver匹配&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="4682.5" y="848" as="geometry" />
         </mxCell>
         <mxCell id="LhNuREKmqUYwY5woirBo-27" edge="1" parent="1" source="LhNuREKmqUYwY5woirBo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="LhNuREKmqUYwY5woirBo-26" value="">
