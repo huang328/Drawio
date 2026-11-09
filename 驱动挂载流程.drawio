@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="4371" dy="3184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5606" dy="4099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1389,23 +1389,19 @@
         <mxCell id="co2dRdoVw6EAKkKJkjZD-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;启动或更新定时器&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="5286" y="658" as="geometry" />
         </mxCell>
-        <mxCell id="co2dRdoVw6EAKkKJkjZD-12" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-15" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-12" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="co2dRdoVw6EAKkKJkjZD-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5376" y="1018" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="co2dRdoVw6EAKkKJkjZD-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;与已经注册或稍后注册的i2c_driver匹配&lt;/font&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;提交工作项:schedule_work&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="72" width="424" x="5286" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="co2dRdoVw6EAKkKJkjZD-14" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-16" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="co2dRdoVw6EAKkKJkjZD-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;提交工作项:schedule_work&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="5286" y="1018" as="geometry" />
         </mxCell>
         <mxCell id="co2dRdoVw6EAKkKJkjZD-25" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="co2dRdoVw6EAKkKJkjZD-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;worker调用回调：传入work成员地址&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="5286" y="1180" as="geometry" />
+          <mxGeometry height="80" width="180" x="5286" y="1018" as="geometry" />
         </mxCell>
         <mxCell id="co2dRdoVw6EAKkKJkjZD-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
           <mxGeometry height="30" width="120" x="5350" y="590" as="geometry" />
@@ -1420,10 +1416,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="co2dRdoVw6EAKkKJkjZD-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;container_of：恢复外层按键对象地址&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="5286" y="1340" as="geometry" />
+          <mxGeometry height="80" width="180" x="5286" y="1178" as="geometry" />
         </mxCell>
         <mxCell id="co2dRdoVw6EAKkKJkjZD-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;读取按键状态并上报时间事件&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="5286" y="1510" as="geometry" />
+          <mxGeometry height="80" width="180" x="5286" y="1348" as="geometry" />
         </mxCell>
         <mxCell id="co2dRdoVw6EAKkKJkjZD-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;视频流出流命令方向&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="530" x="2485" y="1380" as="geometry" />
