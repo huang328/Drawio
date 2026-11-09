@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="3074" dy="2114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5606" dy="4099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1352,6 +1352,78 @@
         </mxCell>
         <mxCell id="LhNuREKmqUYwY5woirBo-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;驱动核心通过I2C bus的probe路径调用具体驱动probe&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="4682.5" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;p&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;GPIO按键中断&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="530" x="5111" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-2" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;初始化：为按键对象的work绑定回调&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5286" y="-28" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-4" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;按键IRQ：dev_id指向该按键对象&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5286" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-6" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ISR：局部bdata=dev_id&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5286" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-8" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-21" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;需要软件消抖&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="108" width="424" x="5286" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-10" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;启动或更新定时器&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5286" y="658" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-12" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;与已经注册或稍后注册的i2c_driver匹配&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="72" width="424" x="5286" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-14" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;提交工作项:schedule_work&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5286" y="1018" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-25" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;worker调用回调：传入work成员地址&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5286" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+          <mxGeometry height="30" width="120" x="5350" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="定时器到期后提交工作" vertex="1">
+          <mxGeometry height="30" width="130" x="5240" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="80" x="5500" y="683" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-26" edge="1" parent="1" source="co2dRdoVw6EAKkKJkjZD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="co2dRdoVw6EAKkKJkjZD-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;container_of：恢复外层按键对象地址&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5286" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;读取按键状态并上报时间事件&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5286" y="1510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
