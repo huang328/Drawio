@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="2958" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4371" dy="3184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1460,6 +1460,9 @@
         </mxCell>
         <mxCell id="co2dRdoVw6EAKkKJkjZD-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;调用相关subdev的s_stream(1)&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="2660" y="2284" as="geometry" />
+        </mxCell>
+        <mxCell id="co2dRdoVw6EAKkKJkjZD-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;vb2申请流命令典型流程&lt;br&gt;REQUBUFS申请或建立队列、QUERYBUF查询各buffer的长度和映射信息、mmap把buffer映射到用户进程、QBUF把buffer交给驱动、STREAMON开始采集、硬件写入完成、驱动vb2_buffer_done()、DQBUF应用取得已完成buffer的索引及元数据、应用处理、QBUF归还该buffer供后续帧复用&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="300" width="342" x="2870" y="1500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
