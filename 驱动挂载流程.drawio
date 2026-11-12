@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="5606" dy="4099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5108" dy="4308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -902,7 +902,7 @@
         <mxCell id="TPiZZt9vb3zJwYKScggf-295" edge="1" parent="1" source="TPiZZt9vb3zJwYKScggf-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TPiZZt9vb3zJwYKScggf-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TPiZZt9vb3zJwYKScggf-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;mipi摄像头数据路径&lt;/span&gt;" vertex="1">
+        <mxCell id="TPiZZt9vb3zJwYKScggf-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Brounded%3D0%3BfontStyle%3D1%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2024px%3B%26quot%3B%26gt%3Bmipi%E6%91%84%E5%83%8F%E5%A4%B4%E6%95%B0%E6%8D%AE%E8%B7%AF%E5%BE%84%26lt%3B%2Fspan%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2230%22%20width%3D%22530%22%20x%3D%223149%22%20y%3D%221340%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" vertex="1">
           <mxGeometry height="30" width="530" x="3149" y="1340" as="geometry" />
         </mxCell>
         <mxCell id="TPiZZt9vb3zJwYKScggf-301" edge="1" parent="1" source="TPiZZt9vb3zJwYKScggf-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TPiZZt9vb3zJwYKScggf-75">
@@ -1459,6 +1459,9 @@
         </mxCell>
         <mxCell id="co2dRdoVw6EAKkKJkjZD-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;vb2申请流命令典型流程&lt;br&gt;REQUBUFS申请或建立队列、QUERYBUF查询各buffer的长度和映射信息、mmap把buffer映射到用户进程、QBUF把buffer交给驱动、STREAMON开始采集、硬件写入完成、驱动vb2_buffer_done()、DQBUF应用取得已完成buffer的索引及元数据、应用处理、QBUF归还该buffer供后续帧复用&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="300" width="342" x="2870" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="Zrjub5bRFXYGpPf2wbLl-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;系统引导启动图谱&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="530" x="1883" y="4620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
