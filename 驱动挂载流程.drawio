@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="5933" dy="3900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3366" dy="2262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1462,6 +1462,74 @@
         </mxCell>
         <mxCell id="Zrjub5bRFXYGpPf2wbLl-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;系统引导启动图谱&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="530" x="1883" y="4620" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;ISP内部AINR流程&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="530" x="3120" y="4620" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-10" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-13" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;AIQ：自动画质控制&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3295" y="4690" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-12" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Sensor：曝光并输出RAW&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="2980" y="4890" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-15" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3495" y="5120" />
+              <mxPoint x="3495" y="4730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-17" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;采集与ISP图像处理&lt;br&gt;按配置使用AINR&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="3180" y="5080" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-18" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-19" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;VPSS：缩放、裁剪、格式转换&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="3180" y="5225" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;检测与关键点算法&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3120" y="5370" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-20" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;VENC：H.264/H.265编码&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3390" y="5370" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-21" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RTSP服务与媒体传输&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3390" y="5530" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接收端：解码、显示或分析&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3390" y="5690" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="曝光、增益" vertex="1">
+          <mxGeometry height="30" width="120" x="3060" y="4810" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="画质与降噪参数" vertex="1">
+          <mxGeometry height="30" width="120" x="3334" y="4820" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ch01kUjFEbIokvJpel-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="亮度、颜色等统计" vertex="1">
+          <mxGeometry height="30" width="120" x="3495" y="4920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
