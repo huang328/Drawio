@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="2216" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4764" dy="3302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1633,7 +1633,7 @@
         <mxCell id="SZ053jsxlA1p82XsfGUK-31" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-29" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SZ053jsxlA1p82XsfGUK-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;UDP/IP与出口处理端口、地址、路由&lt;br&gt;qdisc/设备发送队列&lt;/span&gt;" vertex="1">
+        <mxCell id="SZ053jsxlA1p82XsfGUK-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;UDP/IP与出口处理端口/地址/路由&lt;br&gt;走qdisc/设备发送队列&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="5040" y="5150" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-38" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-20">
@@ -1659,6 +1659,18 @@
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;机器人命令校验与控制缓存&lt;br&gt;目标选择、控制模式、有效性检查&lt;br&gt;T5：底层控制循环实际采纳该目标&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="5040" y="5900" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ053jsxlA1p82XsfGUK-47" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;控制命令下放对比反馈接收与消费&lt;br&gt;两条链使用同一套网络基础设施，但接收用DataReader，发送用DataWriter；状态缓存和命令缓存不同，涉及的线程、队列及接口也不同。 &lt;br&gt;下发链不能简单把接收图的箭头反过来，更不能沿用接收测试的通过标记。&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="560" x="5630" y="3230" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ053jsxlA1p82XsfGUK-50" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ053jsxlA1p82XsfGUK-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RK网口&lt;br&gt;RX DMA/RING、IRQ/NAPI&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5300" y="5230" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ053jsxlA1p82XsfGUK-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Linux本地接收路径&lt;br&gt;IP/UDP、socket接收队列&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="5300" y="5070" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
