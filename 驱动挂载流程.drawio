@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="8039" dy="8854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3729" dy="3667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1551,7 +1551,7 @@
         <mxCell id="SZ053jsxlA1p82XsfGUK-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;SDK发布接口&lt;br&gt;ChannelPublisher&amp;lt;Cmd&amp;gt;&lt;br&gt;.Write(cmd)&lt;br&gt;命令topic和消息类型按业务确认&lt;br&gt;T3：调用进入/返回&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="5040" y="4450" as="geometry" />
         </mxCell>
-        <mxCell id="SZ053jsxlA1p82XsfGUK-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;机械狗实时性命令下发策略&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="SZ053jsxlA1p82XsfGUK-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;机械狗实时性命令下发策略(RK3576+宇树As2)&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="370" x="4960" y="3230" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-25" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-24">
@@ -1743,9 +1743,6 @@
         <mxCell id="SZ053jsxlA1p82XsfGUK-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;硬件VPSS&lt;br&gt;多通道裁剪/缩放/输出&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3424" y="5910" as="geometry" />
         </mxCell>
-        <mxCell id="SZ053jsxlA1p82XsfGUK-109" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-108" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ISP mainpath&lt;br&gt;历史设备：/dev/video24&lt;br&gt;业务取图：NV12 1280*720&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3110" y="5910" as="geometry" />
         </mxCell>
@@ -1755,14 +1752,17 @@
         <mxCell id="SZ053jsxlA1p82XsfGUK-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;VPSS视频节点&lt;br&gt;历史设备：/dev/video41~44&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3424" y="6055" as="geometry" />
         </mxCell>
-        <mxCell id="SZ053jsxlA1p82XsfGUK-107" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-103" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Rockit VI接口&lt;br&gt;RK_MPI_VI_*&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3424" y="6220" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;rkipc自身业务&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3424" y="6390" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ053jsxlA1p82XsfGUK-109" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-108" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ053jsxlA1p82XsfGUK-107" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-103" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接(3)取帧目标识别推理+RTSP取帧&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="3110" y="6070" as="geometry" />
