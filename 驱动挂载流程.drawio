@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="3457" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8039" dy="8854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
         <mxCell id="I16DbaLWXgVnc-UUw8jS-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value=" " vertex="1">
           <mxGeometry height="1565" width="1807" x="53" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="I16DbaLWXgVnc-UUw8jS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;隐者协议清单&lt;br&gt;0.misc设备核心层工作和用户态执行&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1.AP详细链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2.驱动加载依赖列表&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3.按设备分类运行层次数据链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;4.I2C设备流程&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;5.mipi摄像头数据路径&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;6.fastboot启动对比流程图&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;7.i2c设备两种匹配模型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;8.tasklet软中断数据路径&lt;br&gt;9.mipi雷达通信链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;10.GPIO按键中断&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;11.视频流出流数据方向&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="I16DbaLWXgVnc-UUw8jS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;隐者协议清单&lt;br&gt;0.misc设备核心层工作和用户态执行&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1.AP详细链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2.驱动加载依赖列表&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3.按设备分类运行层次数据链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;4.I2C设备流程&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;5.mipi摄像头数据路径&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;6.fastboot启动对比流程图&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;7.i2c设备两种匹配模型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;8.tasklet软中断数据路径&lt;br&gt;9.mipi雷达通信链路&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;10.GPIO按键中断&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;11.视频流出流数据方向&lt;br&gt;12.&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font size=&quot;3&quot;&gt;(1)MIPI相机传感器采集和中断流程接(2)(3)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="290" width="590" x="1910" y="60" as="geometry" />
         </mxCell>
         <mxCell id="I16DbaLWXgVnc-UUw8jS-32" edge="1" parent="1" source="I16DbaLWXgVnc-UUw8jS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I16DbaLWXgVnc-UUw8jS-26" value="">
@@ -1135,43 +1135,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;重复stop：保留两个调用来源，保证状态转换只发生一次&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3101" y="7250" as="geometry" />
+          <mxGeometry height="80" width="180" x="1725" y="7480" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;相机TASKLET软中断数据路径&lt;br&gt;(&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;更正后&lt;/b&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;)&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="370" x="3006" y="6300" as="geometry" />
+          <mxGeometry height="30" width="370" x="1630" y="6530" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-8" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化：创建tasklet，建立初始禁止执行状态&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3101" y="6370" as="geometry" />
+          <mxGeometry height="80" width="180" x="1725" y="6600" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-9" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;首参数到达：先同步旧任务，再保存参数，按条件启用&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3101" y="6550" as="geometry" />
+          <mxGeometry height="80" width="180" x="1725" y="6780" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-10" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ISP启动：通过前置检查后，允许LSC在启流配置阶段工作&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3101" y="6730" as="geometry" />
+          <mxGeometry height="80" width="180" x="1725" y="6960" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-11" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ISP停止：先同步LSC，再停止或复位ISP&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3101" y="6900" as="geometry" />
+          <mxGeometry height="80" width="180" x="1725" y="7130" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-14" edge="1" parent="1" source="2NOt9I0xqU4rARRQJwfY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="2NOt9I0xqU4rARRQJwfY-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;params停止：在唤醒其他停留线程之前，同步LSC&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3101" y="7070" as="geometry" />
+          <mxGeometry height="80" width="180" x="1725" y="7300" as="geometry" />
         </mxCell>
         <mxCell id="2NOt9I0xqU4rARRQJwfY-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;卸载：同步结束后才释放参数与tasklet所属对象&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3101" y="7430" as="geometry" />
+          <mxGeometry height="80" width="180" x="1725" y="7660" as="geometry" />
         </mxCell>
         <mxCell id="WCtbx35mezFaZlYUoL2D-2" edge="1" parent="1" source="u90evlcP-T-NCtnqiBV2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="WCtbx35mezFaZlYUoL2D-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1221,7 +1221,7 @@
           <mxGeometry height="30" width="120" x="2360" y="6230" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;参数变成LSC tasklet&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;-----rkisp.c&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;使用RAW回读rkisp_trigger_read_back()&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;-----isp_params.c&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;--普通参数进入队rkisp_params_vb2_buf_queue()&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;--当前帧参数分发rkisp_params_first_cfg()、v3x first_cfg/param_cfg&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;-----isp_params_v3x.c&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;--LSC配置分发&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;__isp_isr_other_config()，&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;在LSC配置更新位满足时调用isp_lsc_config()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;--LSC使能分发&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;__isp_isr_other_en()&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;，在LSC使能更新位满足时调用isp_lsc_enable()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;--进入两个调度入口isp_lsc_schedule()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;非中断上下文使能LSC时，可通过&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;isp_lsc_matrix_cfg_sram()直接调用SRAM配置函数，因此LSC配置并非全部经过tasklet&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;软中断执行链&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-----interrupt.h&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;--配置pending，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;test_and_set_bit()设置SCHED，已经设置则不重复入队&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;-----softirq.c&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;--入本CPU队列，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;__tasklet_schedule_common()挂到tasklet队尾+触发软中断&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;--检查执行资格，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;tasklet_action_common()读取count，在count=0时清SCHED后调用t-&amp;gt;func(t-&amp;gt;data)，此处原故障循环会在count非零时重新入队并再次raise&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-----isp_params_v3x.c&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;--LSC回调检查，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;isp_lsc_cfg_sram_task()，&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;加锁读取GATE，关闭则返回，并调用matrix配置，unite时配置另一组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;--SRAM实现&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;isp_lsc_matrix_cfg_sram()，检查硬件LSC使能、写表地址+校正表数据+切换表&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;--必须保持count=0再同步，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;tasklet_kill()等待SCHED清除+RUN退出，若提前disable导致pending永远无法被处理，等待无法结束&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="630" width="680" x="3395" y="6640" as="geometry" />
+          <mxGeometry height="630" width="680" x="2019" y="6870" as="geometry" />
         </mxCell>
         <mxCell id="lW58ntbsofe4bpGpLtgx-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;mipi雷达数据路径&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="530" x="3593.5" y="-100" as="geometry" />
@@ -1450,52 +1450,52 @@
         <mxCell id="Zrjub5bRFXYGpPf2wbLl-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;系统引导启动图谱&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="530" x="2780" y="1380" as="geometry" />
         </mxCell>
-        <mxCell id="52Ch01kUjFEbIokvJpel-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;相机ISP内部AINR流程&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="530" x="3129" y="4400" as="geometry" />
+        <mxCell id="52Ch01kUjFEbIokvJpel-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;(2)相机ISP内部AINR降噪流程&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="530" x="3154" y="4620" as="geometry" />
         </mxCell>
         <mxCell id="52Ch01kUjFEbIokvJpel-10" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3120" y="4790" />
+              <mxPoint x="3140" y="5060" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="52Ch01kUjFEbIokvJpel-13" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3385" y="5010" />
-              <mxPoint x="3385" y="5010" />
+              <mxPoint x="3405" y="5280" />
+              <mxPoint x="3405" y="5280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-90" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-87">
           <mxGeometry relative="1" x="0.317" as="geometry">
             <Array as="points">
-              <mxPoint x="3660" y="4790" />
-              <mxPoint x="3660" y="5345" />
+              <mxPoint x="3680" y="5060" />
+              <mxPoint x="3680" y="5615" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="52Ch01kUjFEbIokvJpel-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;AIQ：自动画质控制&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="385" x="3192.5" y="4750" as="geometry" />
+          <mxGeometry height="80" width="385" x="3212.5" y="5020" as="geometry" />
         </mxCell>
         <mxCell id="52Ch01kUjFEbIokvJpel-12" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52Ch01kUjFEbIokvJpel-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接(1)MIPI相机传感器采集和中断流程&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="280" x="2980" y="4960" as="geometry" />
+          <mxGeometry height="80" width="280" x="3000" y="5230" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-88" edge="1" parent="1" source="52Ch01kUjFEbIokvJpel-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-87" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52Ch01kUjFEbIokvJpel-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RKISP前段FE前级图像处理&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="287.5" x="3192.5" y="5150" as="geometry" />
+          <mxGeometry height="80" width="287.5" x="3212.5" y="5420" as="geometry" />
         </mxCell>
         <mxCell id="52Ch01kUjFEbIokvJpel-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="曝光、增益控制" vertex="1">
-          <mxGeometry height="30" width="120" x="3060" y="4880" as="geometry" />
+          <mxGeometry height="30" width="120" x="3080" y="5150" as="geometry" />
         </mxCell>
         <mxCell id="52Ch01kUjFEbIokvJpel-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ISP统计/帧事件" vertex="1">
-          <mxGeometry height="30" width="120" x="3334" y="4890" as="geometry" />
+          <mxGeometry height="30" width="120" x="3354" y="5160" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value=" " vertex="1">
           <mxGeometry height="880" width="750" x="4780" y="5510" as="geometry" />
@@ -1686,20 +1686,20 @@
         <mxCell id="SZ053jsxlA1p82XsfGUK-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;系统I2C从设备加载流程&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="30" width="530" x="5865" y="-100" as="geometry" />
         </mxCell>
-        <mxCell id="SZ053jsxlA1p82XsfGUK-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;(1)MIPI相机传感器采集和中断流程&lt;/span&gt;" vertex="1">
+        <mxCell id="SZ053jsxlA1p82XsfGUK-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="(1)MIPI相机传感器采集和中断流程" vertex="1">
           <mxGeometry height="30" width="530" x="1949" y="4620" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-74" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-73" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RK脚本启动rkipc&lt;br&gt;rkipc内AIQ初始化&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3295" y="4450" as="geometry" />
+          <mxGeometry height="80" width="180" x="3315" y="4720" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-75" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="52Ch01kUjFEbIokvJpel-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RKAIQ&lt;br&gt;曝光/白平衡/ISP参数&lt;br&gt;RAW回读及AIISP调度&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3295" y="4605" as="geometry" />
+          <mxGeometry height="80" width="180" x="3315" y="4875" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-85" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-84">
           <mxGeometry relative="1" as="geometry" />
@@ -1717,13 +1717,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;AINR&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;确认启用后&lt;br&gt;经AIISP/AINR做AI降噪处理&lt;br&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3246.25" y="5305" as="geometry" />
+          <mxGeometry height="80" width="180" x="3266.25" y="5575" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="前段输出缓冲&lt;br&gt;图像、中间结果及增益信息" vertex="1">
-          <mxGeometry height="30" width="150" x="3260" y="5253" as="geometry" />
+          <mxGeometry height="30" width="150" x="3280" y="5523" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="参数/缓冲队列" vertex="1">
-          <mxGeometry height="30" width="120" x="3584" y="5010" as="geometry" />
+          <mxGeometry height="30" width="120" x="3604" y="5280" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-98" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-97">
           <mxGeometry relative="1" as="geometry" />
@@ -1732,34 +1732,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;RKISP后半段BE&lt;br&gt;后续ISP处理与图像输出&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3246.25" y="5470" as="geometry" />
+          <mxGeometry height="80" width="180" x="3266.25" y="5740" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="降噪结果缓冲" vertex="1">
-          <mxGeometry height="30" width="150" x="3260" y="5420" as="geometry" />
+          <mxGeometry height="30" width="150" x="3280" y="5690" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-101" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-100" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;硬件VPSS&lt;br&gt;多通道裁剪/缩放/输出&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3404" y="5640" as="geometry" />
+          <mxGeometry height="80" width="180" x="3424" y="5910" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ053jsxlA1p82XsfGUK-109" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-108" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ISP mainpath&lt;br&gt;历史设备：/dev/video24&lt;br&gt;业务取图：NV12 1280*720&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3090" y="5640" as="geometry" />
+          <mxGeometry height="80" width="180" x="3110" y="5910" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-104" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-102" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;VPSS视频节点&lt;br&gt;历史设备：/dev/video41~44&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3404" y="5785" as="geometry" />
+          <mxGeometry height="80" width="180" x="3424" y="6055" as="geometry" />
         </mxCell>
-        <mxCell id="SZ053jsxlA1p82XsfGUK-105" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-103" value="">
+        <mxCell id="SZ053jsxlA1p82XsfGUK-107" edge="1" parent="1" source="SZ053jsxlA1p82XsfGUK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="SZ053jsxlA1p82XsfGUK-103" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Rockit VI接口&lt;br&gt;RK_MPI_VI_*&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3404" y="5950" as="geometry" />
+          <mxGeometry height="80" width="180" x="3424" y="6220" as="geometry" />
         </mxCell>
         <mxCell id="SZ053jsxlA1p82XsfGUK-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;rkipc自身业务&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="3404" y="6120" as="geometry" />
+          <mxGeometry height="80" width="180" x="3424" y="6390" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ053jsxlA1p82XsfGUK-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接(3)取帧目标识别推理+RTSP取帧&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3110" y="6070" as="geometry" />
+        </mxCell>
+        <mxCell id="SZ053jsxlA1p82XsfGUK-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;(3)取帧目标识别推理+RTSP取帧&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="530" x="3067.5" y="6550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
