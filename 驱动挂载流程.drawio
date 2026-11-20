@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="eJQzfZkI5cdHR-L3XfFN">
-    <mxGraphModel dx="3366" dy="2262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2963" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1796,6 +1796,36 @@
         </mxCell>
         <mxCell id="G34w_xbvEQpofj_dDCem-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="tcp@68" vertex="1">
           <mxGeometry height="80" width="180" x="2065" y="2123.38" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;DDR帧内存映射&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="530" x="3485" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-34" edge="1" parent="1" source="G34w_xbvEQpofj_dDCem-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="G34w_xbvEQpofj_dDCem-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;应用：用户虚拟地址&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3370" y="1598" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-35" edge="1" parent="1" source="G34w_xbvEQpofj_dDCem-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="G34w_xbvEQpofj_dDCem-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;CIF DMA：设备DMA地址&lt;br&gt;获取DMA mapping映射的访问内存DMA地址，并处理相关DMA约束&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3370" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-36" edge="1" parent="1" source="G34w_xbvEQpofj_dDCem-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="G34w_xbvEQpofj_dDCem-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;CPU MMU/进程页表&lt;br&gt;查阅mmap映射，将虚拟地址翻译为物理内存地址&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3660" y="1598" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-37" edge="1" parent="1" source="G34w_xbvEQpofj_dDCem-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="G34w_xbvEQpofj_dDCem-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;IOMMU/设备地址映射&lt;br&gt;将设备发出的DMA地址翻译为物理内存地址&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3660" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="G34w_xbvEQpofj_dDCem-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="&lt;font size=&quot;3&quot;&gt;同一组DDR帧内存&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="3943.5" y="1598" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
